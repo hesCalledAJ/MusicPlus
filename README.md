@@ -86,10 +86,9 @@ Pick whichever method suits you.
 
 #### Option A — From the Telegram plugin catalog (recommended)
 
-1. Tap **[Add Music +](https://t.me/exteraPluginRepo?c=AJ_Plugins)** to open the AJ Plugins repository in exteraGram.
+1. **[Add AJ's plugins as a PLugin Repository](https://t.me/exteraPluginRepo?c=AJ_Plugins)** in exteraGram/AyuGram.
 2. Find **Music +** and tap **Install**.
 3. Enable the plugin.
-4. Open Music + settings, turn on the **Music tab**, and restart exteraGram.
 
 #### Option B — Manual install from GitHub
 
@@ -97,13 +96,9 @@ Pick whichever method suits you.
 2. Download the `MusicPlus-vX.Y.elyx` file attached to it.
 3. Send the file in any chat (Saved Messages works well) and tap it to install.
 4. Confirm the install and enable Music +.
-5. Open Music + settings, turn on the **Music tab**, and restart exteraGram.
 
 > [!TIP]
 > By default, Music + replaces Telegram's built-in music player sheet. Turn on the **Music tab** in the plugin settings to get the full library interface.
-
-> [!NOTE]
-> The `.elyx` file is built and attached to each GitHub Release automatically. It is not committed to this repository.
 
 ### Requirements
 
