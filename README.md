@@ -16,7 +16,7 @@ A richer music experience inside Telegram — with a personal library, lyrics, a
 [![Languages](https://img.shields.io/badge/LANGUAGES-EN%20%7C%20RU%20%7C%20FA-0f9d78?style=for-the-badge)](#-languages)
 [![Channel](https://img.shields.io/badge/TELEGRAM-AJ__PLUGINS-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AJ_Plugins)
 
-[**Install from Telegram**](https://t.me/exteraPluginRepo?c=AJ_Plugins) · [**GitHub Releases**](https://github.com/hesCalledAJ/MusicPlus/releases/latest) · [**Installation guide**](https://t.me/AJ_Plugins/41)
+[**Install from Telegram**](https://t.me/exteraPluginRepo?c=AJ_Plugins) · [**GitHub Releases**](https://github.com/hesCalledAJ/MusicPlus/releases/latest)
 
 </div>
 
@@ -70,7 +70,6 @@ Music + is a **plugin for exteraGram**, so you need exteraGram first. Set that u
    - [exteragram.app](https://exteragram.app)
    - [@exteraGram](https://t.me/exteraGram) (news and updates)
    - [@exteraReleases](https://t.me/exteraReleases) (APK downloads)
-   - [@exitfy](https://t.me/exitfy), also known as the **exteraGram utilities** channel (a trusted third-party source, but new versions show up there later than on the official channels)
 2. **Install the APK.**
 3. **Log in** with your Telegram account, the same way you would in the regular app.
 4. **Turn on plugins.** Open exteraGram **Preferences → Plugins** and enable the plugin engine.
@@ -78,6 +77,8 @@ Music + is a **plugin for exteraGram**, so you need exteraGram first. Set that u
 
 > [!NOTE]
 > You might need to allow installing from **Unknown Sources** before Android lets you install the APK. [Here's how to enable it](https://t.me/exteraSettings?s=pluginsUnknownSources).
+>
+> Prefer not to enable it? You can [install from a known source](https://t.me/exteraPluginsSup/1196) instead. Updates there arrive later than on the official channels.
 
 ### Step 2 — Install Music +
 
@@ -94,7 +95,7 @@ Pick whichever method suits you.
 
 1. Open the [latest release](https://github.com/hesCalledAJ/MusicPlus/releases/latest).
 2. Download the `MusicPlus-vX.Y.elyx` file attached to it.
-3. Open the file with exteraGram's plugin installer, or use the import action in **Preferences → Plugins**.
+3. Send the file in any chat (Saved Messages works well) and tap it to install.
 4. Confirm the install and enable Music +.
 5. Open Music + settings, turn on the **Music tab**, and restart exteraGram.
 
@@ -113,8 +114,6 @@ Pick whichever method suits you.
 | Package format | `.elyx` |
 
 The SDK version is a plugin API requirement only. You don't need to install a separate SDK on your phone.
-
-Need a walkthrough with screenshots? See the [installation guide](https://t.me/AJ_Plugins/41).
 
 ## 🗂️ Project structure
 
@@ -161,12 +160,9 @@ The interface currently includes:
 | | Link |
 |:--|:--|
 | **Author / updates** | [AJ Plugins](https://t.me/AJ_Plugins) |
-| **Music + installation guide** | [Read the guide](https://t.me/AJ_Plugins/41) |
 | **Releases** | [Latest GitHub release](https://github.com/hesCalledAJ/MusicPlus/releases/latest) |
 | **ExteraGram** | [Website](https://exteragram.app) · [Telegram](https://t.me/exteraGram) · [Plugin documentation](https://plugins.exteragram.app/docs) |
 | **AyuGram** | [Android repository](https://github.com/AyuGram/AyuGram4A) · [Telegram](https://t.me/ayugram) |
-
-> **Compatibility note:** Music + is packaged for the ExteraGram plugin API. AyuGram is linked as a related ExteraGram-based client; compatibility with a particular AyuGram build is not guaranteed here.
 
 ## 🤝 Contributing
 
