@@ -70,10 +70,14 @@ Music + is a **plugin for exteraGram**, so you need exteraGram first. Set that u
    - [exteragram.app](https://exteragram.app)
    - [@exteraGram](https://t.me/exteraGram) (news and updates)
    - [@exteraReleases](https://t.me/exteraReleases) (APK downloads)
-2. **Install the APK.** If Android asks, allow installs from your browser or from Telegram.
+   - [@exitfy](https://t.me/exitfy), also known as the **exteraGram utilities** channel (a trusted third-party source, but new versions show up there later than on the official channels)
+2. **Install the APK.**
 3. **Log in** with your Telegram account, the same way you would in the regular app.
 4. **Turn on plugins.** Open exteraGram **Preferences → Plugins** and enable the plugin engine.
 5. **Check your version.** Music + needs exteraGram `12.10.6` or newer. Update the app if yours is older.
+
+> [!NOTE]
+> You might need to allow installing from **Unknown Sources** before Android lets you install the APK. [Here's how to enable it](https://t.me/exteraSettings?s=pluginsUnknownSources).
 
 ### Step 2 — Install Music +
 
@@ -164,47 +168,52 @@ The interface currently includes:
 
 > **Compatibility note:** Music + is packaged for the ExteraGram plugin API. AyuGram is linked as a related ExteraGram-based client; compatibility with a particular AyuGram build is not guaranteed here.
 
+## 🤝 Contributing
+
+Contributions are welcome, whether it's a bug report, a translation, or a code change.
+
+### Report a bug or suggest a feature
+
+Open an [issue](https://github.com/hesCalledAJ/MusicPlus/issues) and include:
+
+- what you expected and what happened instead;
+- your exteraGram version and your Music + version;
+- steps to reproduce it, plus a screenshot if it helps.
+
+### Add or fix a translation
+
+1. Fork the repository.
+2. Edit the file for your language in `MusicPlus/strings/` (`strings_en.yml`, `strings_fa.yml` or `strings_ru.yml`). For a new language, copy `strings_en.yml` and translate it.
+3. Open a pull request.
+
+### Send a code change
+
+1. Fork the repository and create a branch.
+2. Make your changes under `MusicPlus/`.
+3. [Build it locally](#-for-developers) and try it in exteraGram.
+4. Open a pull request that explains what you changed and why.
+
+Please don't change `version` in `MusicPlus/metainfo.yml` or edit `extera-plugins.json` in a pull request. Those are updated when a release is published.
+
 ## 🧩 For developers
 
 ### Build locally
-
-The repository includes a small, dependency-light packager. It validates Python syntax, reads the version from `MusicPlus/metainfo.yml`, and creates a source archive with `refmap.yml` at the archive root.
 
 ```bash
 python -m pip install pyyaml
 python scripts/build_elyx.py
 ```
 
-The output is written to `dist/MusicPlus-vX.Y.elyx`. The `dist/` directory is ignored by Git.
+This checks the Python syntax and writes `dist/MusicPlus-vX.Y.elyx`. Install that file the same way as in [Option B](#option-b--manual-install-from-github).
 
-### Publish a release
+### Publish a release (maintainers)
 
-1. Make your changes under `MusicPlus/`.
-2. Update `version` in `MusicPlus/metainfo.yml`.
-3. Commit and push the source changes.
-4. Create a GitHub Release with a tag matching the metadata version, using the `v` prefix (for example, metadata `1.6` → tag `v1.6`).
-5. Publish the release.
+1. Update `version` in `MusicPlus/metainfo.yml` and push.
+2. Create a GitHub Release with a matching tag and a `v` prefix (version `1.6` → tag `v1.6`).
 
-The `release.yml` workflow then:
+The `release.yml` workflow does the rest: it builds the `.elyx`, attaches it to the release, and updates `extera-plugins.json` with the download URL, SHA-256 and size.
 
-- builds the `.elyx` from the checked-out release tag;
-- attaches it to that GitHub Release;
-- calculates its SHA-256 and exact byte size;
-- updates `extera-plugins.json` on the default branch with the GitHub Release asset URL.
-
-No `.elyx` binary needs to be committed or uploaded manually. The ExteraGram catalog uses the release asset URL and verifies its size and SHA-256 before installation.
-
-### Manual catalog-index generation
-
-After building, you can generate the index entry yourself:
-
-```bash
-python scripts/update_index.py \
-  --archive dist/MusicPlus-v1.5.elyx \
-  --asset-url "https://github.com/hesCalledAJ/MusicPlus/releases/download/v1.5/MusicPlus-v1.5.elyx"
-```
-
-The official ElyxBuilder is also supported for more advanced builds. This repository's packager creates a source archive, matching the current source-based `.elyx` package. For compiled `.pyc` builds, use Python 3.11 and ElyxBuilder as described in the [official build docs](https://plugins.exteragram.app/docs/elyx/elyxbuilder).
+For compiled builds, see the [official ElyxBuilder docs](https://plugins.exteragram.app/docs/elyx/elyxbuilder).
 
 ## 💬 Support
 
