@@ -1,0 +1,759 @@
+1_hour: ۱ ساعت
+1_track: ۱ آهنگ
+add_a_chat_from_its_music: از منوی Music + در چت، گزینهٔ «افزودن چت به کتابخانه» رو انتخاب کنید.
+add_a_user_from_their_music: از منوی Music + کاربر، گزینهٔ «افزودن به دوستان» رو بزنید.
+add_as_friend: افزودن به دوستان
+add_chat_to_library: افزودن گفتگو به کتابخانه
+add_this_track_to_a_playlist: افزودن این آهنگ به فهرست پخش
+add_this_track_to_the_end: افزودن این آهنگ به انتهای صف
+add_this_track_to_the_queue: افزودن این آهنگ به صف پخش یا فهرست پخش
+add_to: افزودن به
+add_to_end: افزودن به انتها
+add_to_failed: افزودن انجام نشد
+add_to_liked_songs: افزودن به آهنگ‌های پسندیده
+add_to_profile_playlist: افزودن به فهرست پخش پروفایل
+add_to_queue_failed: افزودن به صف پخش انجام نشد
+add_topic_to_library: افزودن موضوع به کتابخانه
+add_your_favorite_chats_to_library: چت‌های موردعلاقه‌تون رو به کتابخونه اضافه کنید تا هنرمندهاشون رو راحت‌تر پیدا کنید.
+added_n_downloaded_tracks: '{0} آهنگِ دانلودشده اضافه شد'
+added_n_to_library_chats: «{0}» به کتابخانه › گفتگوها اضافه شد
+added_n_to_profile_music: '{0} به موسیقی پروفایل اضافه شد'
+added_n_tracks_n: '{0} آهنگ اضافه شد {1}'
+added_n_tracks_n_n: '{0} آهنگ اضافه شد {1}{2}'
+added_n_tracks_to_n: '{0} آهنگ به «{1}» اضافه شد'
+added_to_play_next: برای پخش بعدی اضافه شد
+added_to_queue: به صف پخش اضافه شد
+added_to_the_end_of_the: به انتهای صف پخش اضافه شد
+adding_to_profile_music: در حال افزودن به موسیقی پروفایل…
+adds_a_music_tab_to_the: یک زبانهٔ موسیقی به نوار پایین اضافه می‌کند
+replace_contacts_tab: جایگزینی تب مخاطبین
+tab_add_unsupported: افزودن تب به این نوار ممکن نیست. گزینه جایگزینی تب مخاطبین را امتحان کنید.
+replaces_the_contacts_tab_with_music: به‌جای افزودن تب جدید، از تب مخاطبین برای موسیقی استفاده می‌شود
+adds_music_to_the_side_menu: موزیک + را به منوی کناری اضافه می‌کند
+album: آلبوم
+album_artwork_hasnt_loaded_yet: تصویر آلبوم هنوز بارگذاری نشده است
+album_covers_from_itunes: کاور آلبوم‌ها از iTunes
+albums: آلبوم‌ها
+all: همه
+all_of_them_are_already_downloaded: همه‌شون قبلاً دانلود شدن
+all_saved_track_lists_are_deleted: همهٔ فهرست‌های ذخیره‌شدهٔ آهنگ از این دستگاه پاک می‌شوند و در صورت نیاز دوباره دریافت خواهند شد. فهرست‌های پخش و گفتگوهای کتابخانه باقی می‌مانند.
+alphabetical: حروف الفبا
+already_downloaded: از قبل دانلود شده
+already_downloading: در حال دانلودِ
+already_in_library: از قبل در کتابخانه است
+already_in_queue_no_player: از قبل در صف پخش است / پخشی در کار نیست
+already_in_the_queue: از قبل در صف پخش است
+always_show_at_the_top_of: همیشه در بالای فهرست هنرمندان نمایش بده
+appearance: ظاهر
+appends_to_your_profile_music: به موسیقی پروفایلتان اضافه می‌کند
+applies_in_portrait_mode_only: فقط در حالت عمودی اعمال می‌شود.
+artist: هنرمند
+artist_name: نام هنرمند
+artist_name_unavailable: نام هنرمند در دسترس نیست
+artist_page_album_chips_use_itunes: در صفحهٔ هنرمند، برای کاور آلبوم‌ها از تصویر iTunes استفاده می‌شود، نه کاور اولین آهنگ.
+artists: هنرمندان
+artists_you_remove_from_the_library: هنرمندانی که از کتابخانه حذف می‌کنید، اینجا نمایش داده می‌شوند.
+ascending: صعودی
+ask_every_time: هر بار بپرس
+asks_for_a_name: برای نام‌گذاری از شما سؤال می‌کند
+audio: صدا
+author_n: 'سازنده: {0}'
+auto_refresh_chats_on_open: هنگام باز کردن، گفتگوها را خودکار تازه‌سازی کن
+back_to_library: بازگشت به کتابخانه
+better_sleep_timer: زمان‌سنج خواب پیشرفته
+blend_the_end_of_a_track: پایان یک آهنگ را با شروع آهنگ بعدی ترکیب می‌کند
+cache_last_queue: ذخیرهٔ موقت صف پخش قبلی
+cancel: لغو
+cancel_downloading: لغو دانلود
+cancelled_n_downloads: '{0} دانلود لغو شد'
+cancelled_saving_to_music: ذخیره در موسیقی لغو شد
+cant_determine_this_chat: نمی‌توان این گفتگو را تشخیص داد
+cant_do_that_here: اینجا نمی‌توان این کار را انجام داد
+cant_open_excluded_artists_here: نمی‌توان فهرست هنرمندان مستثناشده را اینجا باز کرد
+cant_open_library_section_order_here: نمی‌توان ترتیب بخش‌های کتابخانه را اینجا باز کرد
+cant_open_music_actions_here: نمی‌توان گزینه‌های موسیقی را اینجا باز کرد
+cant_open_telegram_search_here: نمی‌توان جست‌وجوی تلگرام را اینجا باز کرد
+cant_open_the_menu_here: نمی‌توان منو را اینجا باز کرد
+cant_open_the_queue_editor_here: نمی‌توان ویرایشگر صف پخش را اینجا باز کرد
+cant_open_this_chat_here: نمی‌توان این گفتگو را اینجا باز کرد
+cant_open_this_profile_here: نمی‌توان این پروفایل را اینجا باز کرد
+cant_remove_the_track_that_is: نمی‌توان آهنگی را که در حال پخش است حذف کرد
+change_the_playlist_name: تغییر نام فهرست پخش
+change_this_later_in_the_excluded: بعداً می‌توانید این مورد را از فهرست «هنرمندان مستثناشده» در تنظیمات افزونه تغییر دهید.
+channel_t_me_aj_plugins: کانال · t.me/AJ_Plugins
+chat: گفتگو
+chats: گفتگوها
+checking_for_new_music: در حال بررسی موسیقی‌های جدید…
+checking_n_for_new_tracks: در حال بررسی {0} برای آهنگ‌های جدید…
+checks_for_a_new_version_when: هنگام باز کردن موزیک +، نسخهٔ جدید را بررسی می‌کند
+checks_for_new_songs_hold_for: آهنگ‌های جدید را بررسی می‌کند. برای اسکن کامل، لمس کنید و نگه دارید.
+choose_the_order_they_appear_in: ترتیب نمایش آن‌ها در کتابخانه را انتخاب کنید
+clear_cache: پاک کردن حافظهٔ موقت
+clear_library_search: پاک کردن جست‌وجوی کتابخانه
+clear_locked_queue: صف پخش قفل‌شده پاک شود؟
+clear_offline_cache: حافظهٔ موقت آفلاین پاک شود؟
+clear_offline_library_cache: پاک کردن حافظهٔ موقت آفلاین کتابخانه
+clear_queue: پاک کردن صف پخش
+clear_selection: لغو انتخاب‌ها
+cleared_n_tracks: '{0} آهنگ از صف پاک شد'
+close: بستن
+close_and_unlock_queue: بستن و باز کردن قفل صف پخش
+close_library_search: بستن جست‌وجوی کتابخانه
+close_player: پخش‌کننده بسته شود؟
+collapse_player: جمع کردن پخش‌کننده
+configure_music: تنظیم موزیک +
+containing_n_tracks: شامل {0} آهنگ
+continue: ادامه
+could_not_add_as_next: افزودن برای پخش بعدی ممکن نشد
+could_not_play_that_track: پخش آن آهنگ ممکن نشد
+could_not_rebuild_the_queue: ساخت دوبارهٔ صف پخش ممکن نشد
+could_not_save_artwork_to_gallery: ذخیرهٔ تصویر در گالری ممکن نشد
+couldnt_build_the_library_queue_playback: ساخت صف پخش از کتابخانه ممکن نشد؛ پخش بدون تغییر باقی ماند
+couldnt_check_for_new_music_n: 'بررسی موسیقی‌های جدید انجام نشد: {0}'
+couldnt_do_that: انجام این کار ممکن نشد
+couldnt_download_the_backup: دانلود نسخهٔ پشتیبان انجام نشد
+couldnt_find_an_itunes_cover: کاوری در iTunes پیدا نشد
+couldnt_identify_this_profile: تشخیص این پروفایل ممکن نشد
+couldnt_load_all_n: بارگذاری همهٔ {0} مورد ممکن نشد
+couldnt_load_music_n: 'بارگذاری موسیقی ممکن نشد: {0}'
+couldnt_load_tap_to_retry: بارگذاری انجام نشد · برای تلاش دوباره بزنید
+couldnt_load_the_itunes_cover: بارگذاری کاور iTunes ممکن نشد
+couldnt_load_this_profile_playlist: بارگذاری فهرست پخش این پروفایل ممکن نشد
+couldnt_load_those_tracks_check_your: بارگذاری آن آهنگ‌ها ممکن نشد؛ اتصال اینترنتتان را بررسی کنید.
+couldnt_open_artist_in_library: باز کردن هنرمند در کتابخانه ممکن نشد
+couldnt_open_artist_search: باز کردن جست‌وجوی هنرمند ممکن نشد
+couldnt_open_excluded_artists: باز کردن فهرست هنرمندان مستثناشده ممکن نشد
+couldnt_open_library_section_order: باز کردن ترتیب بخش‌های کتابخانه ممکن نشد
+couldnt_open_music_actions: باز کردن گزینه‌های موسیقی ممکن نشد
+couldnt_open_music_settings: باز کردن تنظیمات موزیک + ممکن نشد
+couldnt_open_telegrams_player: باز کردن پخش‌کنندهٔ تلگرام ممکن نشد
+couldnt_open_the_chat: باز کردن گفتگو ممکن نشد
+couldnt_open_the_forward_picker: باز کردن انتخاب‌گر ارسال ممکن نشد
+couldnt_open_the_queue_n: 'باز کردن صف پخش ممکن نشد: {0}'
+couldnt_open_this_profile: باز کردن این پروفایل ممکن نشد
+couldnt_read_telegrams_storage_index: خواندن فهرست فایل‌های ذخیره‌شدهٔ تلگرام ممکن نشد
+couldnt_remove_artist_from_library: حذف هنرمند از کتابخانه ممکن نشد
+couldnt_remove_that_track: حذف آن آهنگ ممکن نشد
+couldnt_restore_the_last_queue: بازیابی صف پخش قبلی ممکن نشد
+couldnt_save_this_profile: ذخیرهٔ این پروفایل ممکن نشد
+couldnt_save_to_music: ذخیره در موسیقی ممکن نشد
+couldnt_send_the_file: ارسال فایل انجام نشد
+couldnt_start_the_queue: شروع صف پخش ممکن نشد
+couldnt_update_liked_songs: به‌روزرسانی آهنگ‌های پسندیده ممکن نشد
+couldnt_update_profile_music: به‌روزرسانی موسیقی پروفایل ممکن نشد
+couldnt_update_profile_music_n: به‌روزرسانی موسیقی پروفایل ممکن نشد ({0})
+creation_date: تاریخ ایجاد
+crossfade: پخش پیوسته
+crossfade_is_unavailable: پخش پیوسته در دسترس نیست
+custom_player_bar: نوار پخش اختصاصی
+default_playback: پخش پیش‌فرض
+delete_playlist: حذف فهرست پخش
+deleted_n: «{0}» حذف شد
+deletes_the_saved_track_lists_they: فهرست‌های ذخیره‌شدهٔ آهنگ را حذف می‌کند؛ در صورت نیاز دوباره دریافت می‌شوند.
+descending: نزولی
+disable_shuffle_for_play_next: برای «پخش بعدی»، پخش تصادفی را غیرفعال کن
+done: انجام شد
+download: دانلود
+download_and_save_this_track: دانلود و ذخیرهٔ این آهنگ
+download_the_selected_tracks: دانلود آهنگ‌های انتخاب‌شده
+download_this_track: دانلود این آهنگ
+download_up_to_100_tracks_at: هر بار حداکثر ۱۰۰ آهنگ دانلود کن
+downloaded_songs: آهنگ‌های دانلودشده
+downloading_backup: در حال دانلود نسخهٔ پشتیبان…
+downloading_n_tracks: در حال دانلود {0} آهنگ
+downloading_n_tracks_will_save_to: در حال دانلود {0} آهنگ… بعد از اتمام، در بخش Music ذخیره می‌شن
+downloads_tracks_before_saving: پیش از ذخیره، آهنگ‌ها را دانلود می‌کند
+drag_to_reorder: برای تغییر ترتیب بکشید
+drag_to_reorder_track: برای تغییر جای آهنگ، آن را بکشید
+duration: مدت‌زمان
+embedded: داخلی
+end_of_queue: انتهای صف پخش
+end_of_track: پایان آهنگ
+exclude_from_queue: حذف از صف پخش
+excluded_artists: هنرمندان مستثناشده
+excluded_artists_n: هنرمندان مستثناشده ({0})
+excluded_n_tracks_n: '{0} آهنگ حذف شد · {1}'
+excluded_n_tracks_of_this_n: '{0} آهنگ از این {1}{2} حذف شد'
+expand_the_player_sheet_before_scrolling: پیش از پیمایش فهرست، پنل پخش‌کننده را باز کن
+expand_the_sheet_on_first_scroll: با اولین پیمایش، پنل را باز کن
+export_data: خروجی گرفتن از داده‌ها
+export_library: خروجی گرفتن از کتابخانه
+export_settings: خروجی گرفتن از تنظیمات
+fade_on_skip: محو شدن صدا هنگام رد کردن آهنگ
+fetch_failed_n_using_loaded_messages: دریافت اطلاعات ناموفق بود ({0})؛ فقط از پیام‌های بارگذاری‌شده استفاده می‌شود
+find_downloaded_songs: پیدا کردن آهنگ‌های دانلودشده
+find_more_downloaded_songs: پیدا کردن آهنگ‌های دانلودشدهٔ بیشتر
+follow_telegram_blur_glass: هماهنگ با افکت‌های بلور و شیشه‌ای تلگرام
+forgot_the_last_queue: صف پخش قبلی پیدا نشد
+forward: ارسال
+forward_selected_tracks_to_a_chat: ارسال آهنگ‌های انتخاب‌شده به یک گفتگو
+forward_this_track_to_a_chat: ارسال این آهنگ به یک گفتگو
+forward_up_to_100_tracks_at: هر بار حداکثر ۱۰۰ آهنگ ارسال کن
+friend: دوست
+friend_profile_playlist: 'فهرست پخش پروفایل دوست: '
+friends: دوستان
+gave_up_waiting_for_n_download: انتظار برای دانلود {0} مورد متوقف شد
+general: عمومی
+generated_from_your_cached_music: بر اساس موسیقی ذخیره‌شده در حافظهٔ موقت شما ساخته شده است
+grid: شبکه‌ای
+hidden_artists_n: هنرمندان پنهان · {0}
+hidden_from_the_library_restore_an: از کتابخانه پنهان شده‌اند. برای نمایش دوباره، هنرمند را بازیابی کنید.
+high_quality_album_covers: کاور آلبوم باکیفیت
+hit_the_n_limit: ' (به سقف {0} رسید)'
+import: وارد کردن
+import_music_data: داده‌های Music + وارد بشن؟
+import_music_settings: تنظیمات Music + وارد بشن؟
+imported_n_n_tracks: «{0}» وارد شد ({1} آهنگ)
+imported_n_playlists_n_tracks_n: 'وارد شد: {0} پلی‌لیست، {1} آهنگ، {2} چت و {3} دوست'
+imported_n_settings_restart_the_app: '{0} تنظیمات وارد شد. برای اعمالشون برنامه رو دوباره باز کنید'
+it_is_merged_with_your_library: این موارد با کتابخونه‌تون ادغام می‌شن. پلی‌لیست‌ها و چت‌هایی که از قبل دارید نادیده گرفته می‌شن. آهنگ‌های چت خصوصی فقط وقتی پخش می‌شن که عضو اون چت باشید.
+keep_screen_on_in_lyrics: هنگام نمایش متن آهنگ، صفحه روشن بماند
+keep_the_player_sheet_ready: پنل پخش‌کننده را آماده نگه دار
+kept_the_currently_playing_track_n: آهنگِ در حال پخش نگه داشته شد · {0}
+kept_the_playing_one: ' (آهنگِ در حال پخش نگه داشته شد)'
+kept_the_playing_track: ' (آهنگِ در حال پخش نگه داشته شد)'
+kept_your_old_tracks: آهنگ‌های قبلی‌تان حفظ شدند
+kind_bot: ربات
+kind_channel: کانال
+kind_forum: انجمن
+kind_group: گروه
+kind_private_chat: گفتگوی خصوصی
+kind_topic: موضوع
+last_played: آخرین پخش
+last_queue: صف پخش قبلی
+last_queue_label: 'صف پخش قبلی · '
+library: کتابخانه
+library_action_failed: انجام عملیات کتابخانه ناموفق بود
+library_couldnt_load: بارگذاری کتابخانه انجام نشد
+library_grid_columns: تعداد ستون‌های نمای شبکه‌ای کتابخانه
+library_loading: در حال بارگذاری کتابخانه
+library_sections: بخش‌های کتابخانه
+library_track_selection: انتخاب آهنگ در کتابخانه
+like_button_in_small_player: دکمهٔ لایک در پلیر کوچک
+liked: پسندیده‌شده
+liked_songs: آهنگ‌های پسندیده
+links: پیوندها
+list: فهرست
+list_sorted: فهرست مرتب شد
+load_more_artists: بارگذاری هنرمندان بیشتر
+loaded_n_tracks_from_n_partial: '{0} آهنگ از {1} بارگذاری شد (ناقص)'
+loading_chat_n_tracks_loaded: در حال بارگذاری گفتگو · {0} آهنگ بارگذاری شده
+loading_lyrics: در حال بارگذاری متن آهنگ…
+loading_music_of_this_n: در حال بارگذاری موسیقی این {0}…
+loading_n: ' · در حال بارگذاری {0}…'
+loading_n_2: در حال بارگذاری {0}…
+loading_n_cached_tracks: در حال بارگذاری {0} آهنگ از حافظهٔ موقت…
+loading_n_n_of_n_tracks: 'در حال بارگذاری {0}: {1} از {2} آهنگ…'
+loading_n_n_tracks: 'در حال بارگذاری {0}: {1} آهنگ…'
+loading_profile_playlist: در حال بارگذاری فهرست پخش پروفایل…
+loading_song: در حال بارگذاری آهنگ…
+loading_songs: در حال بارگذاری آهنگ‌ها…
+loading_tracks: در حال بارگذاری آهنگ‌ها…
+loads_better_queue_covers_too_uses: کاورهای باکیفیت‌تری برای صف پخش بارگذاری می‌کند؛ اما اینترنت و فضای ذخیره‌سازی بیشتری مصرف می‌کند.
+locate_button_in_small_player: دکمهٔ رفتن به منبع آهنگ در پلیر کوچک
+locate_current_track_in_queue: پیدا کردن آهنگ فعلی در صف پخش
+lock_queue: قفل کردن صف پخش
+lock_queue_behavior: رفتار قفل صف پخش
+lock_queue_is_enabled: قفل صف پخش فعال است
+look_through_telegrams_downloaded_files: جست‌وجو در فایل‌های دانلودشدهٔ تلگرام
+lyrics: متن آهنگ
+lyrics_resync: همگام‌سازی
+making_room: در حال خالی کردن فضا…
+manage_artists_hidden_from_the_library: مدیریت هنرمندانی که از کتابخانه پنهان شده‌اند.
+max_queue_songs: حداکثر تعداد آهنگ در صف پخش
+mini_player: مینی‌پلیر
+minimum_sheet_height: حداقل ارتفاع پنل
+minimum_tracks_per_artist: حداقل تعداد آهنگ برای هر هنرمند
+more_options: گزینه‌های بیشتر
+move_tabs_to_top: انتقال زبانه‌ها به بالا
+move_to_end: انتقال به انتها
+moved_to_the_end: به انتها منتقل شد
+music: موسیقی
+music_in_this_n: موسیقی در این {0}
+music_menu_failed: باز کردن منوی موزیک + ناموفق بود
+music_saved_from_chats_and_topics: موسیقی ذخیره‌شده از گفتگوها و موضوع‌ها
+my_profile: پروفایل من
+n_already_exists: «{0}» از قبل وجود داره
+n_already_there: '{0} از قبل آنجاست'
+n_columns: '{0} ستون'
+n_couldnt_load: ' · بارگذاری {0} انجام نشد'
+n_dupe_tracks_from_this_album: '{0} آهنگ تکراری از این آلبوم مخفی شد'
+n_duplicate_tracks_hidden: '{0} آهنگ تکراری مخفی شد'
+n_failed: '{0} مورد ناموفق بود'
+n_found: '{0} مورد پیدا شد'
+n_matches: '{0} مورد پیدا شد'
+n_min: '{0} دقیقه'
+n_n_n_tracks_from: آهنگ از {0}{1}{2}
+n_new_tracks_found: '{0} آهنگ جدید پیدا شد'
+n_of_n_tracks: '{0} از {1} آهنگ'
+n_of_n_tracks_loaded: '{0:,} از {1:,} آهنگ بارگذاری شد'
+n_of_screen: '{0}٪ صفحه'
+n_playlists: '{0} فهرست پخش'
+n_playlists_n_chats_n_friends: '{0} پلی‌لیست · {1} چت · {2} دوست'
+n_remaining: '{0} مورد باقی مانده'
+n_selected: '{0} مورد انتخاب شد'
+n_songs: '{0} آهنگ'
+n_songs_missing_from_this_album: '{0} آهنگ از این آلبوم موجود نیست'
+n_tracks: '{0} آهنگ'
+n_tracks_couldnt_be_loaded_check: '{0} آهنگ بارگذاری نشد؛ اتصال اینترنتتون رو بررسی کنید'
+n_tracks_found: '{0} آهنگ پیدا شد'
+n_tracks_loaded: '{0:,} آهنگ بارگذاری شد'
+n_tracks_loaded_2: '{0} آهنگ بارگذاری شد'
+n_tracks_rescanning: '{0:,} آهنگ · در حال اسکن دوباره…'
+n_tracks_unavailable_deleted_or_too: '{0} آهنگ در دسترس نیست (حذف شدن یا برای بارگذاری خیلی قدیمی‌ان)'
+n_unavailable: '{0} مورد در دسترس نیست'
+navigation: پیمایش
+new_playlist: فهرست پخش جدید…
+new_queue_generation_requested_what_should: درخواست ساخت صف پخش جدید داده شد — چه اتفاقی بیفتد؟
+newer_version_is_available_v_n: 'نسخهٔ جدیدتری در دسترس است: v{0}
+
+  نسخهٔ فعلی: v{1}'
+next: بعدی
+next_track: آهنگ بعدی
+no_artist_is_available_for_this: هنرمندی برای این آهنگ در دسترس نیست
+no_artists_with_n_tracks_lower: هیچ هنرمندی با حداقل {0} آهنگ پیدا نشد. حداقل تعداد را در تنظیمات موزیک + کمتر کنید.
+no_audio_files: فایل صوتی‌ای وجود ندارد
+no_available_tracks_to_download: آهنگی برای دانلود در دسترس نیست
+no_available_tracks_to_forward: آهنگی برای ارسال در دسترس نیست
+no_available_tracks_to_play: آهنگی برای پخش در دسترس نیست
+no_available_tracks_to_save: آهنگی برای ذخیره در دسترس نیست
+no_cached_tracks: آهنگی در حافظهٔ موقت نیست
+no_cached_tracks_for_this_artist: آهنگی از این هنرمند در حافظهٔ موقت نیست
+no_cached_tracks_rescan_the_chat: آهنگی در حافظهٔ موقت نیست. برای بارگذاری دوباره، گفتگو را از منوی آن اسکن کنید.
+no_cached_tracks_to_exclude: آهنگی در حافظهٔ موقت برای مستثنا کردن وجود ندارد
+no_excluded_artists: هنرمند مستثناشده‌ای وجود ندارد
+no_lyrics_found: متن آهنگی پیدا نشد
+no_music_found_in_this_n: هیچ موسیقی‌ای در این {0} پیدا نشد
+no_new_downloaded_tracks_found: آهنگ دانلودشدهٔ جدیدی پیدا نشد
+no_new_music: موسیقی جدیدی پیدا نشد
+no_playlists_yet_use_add_to: هنوز فهرست پخشی ندارید. برای ساخت فهرست جدید، از یک آهنگ، گفتگو یا منوی صف پخش گزینهٔ «افزودن به» را انتخاب کنید.
+no_public_music_was_found_rescan: موسیقی عمومی‌ای پیدا نشد. پس از به‌روزرسانی فهرست پخش پروفایل کاربر، دوباره اسکن کنید.
+no_results_for_n_try_an: نتیجه‌ای برای «{0}» پیدا نشد. نام یک هنرمند، آهنگ، فهرست پخش، گفتگو یا دوست را امتحان کنید.
+no_tracks_available_to_set: آهنگی برای تنظیم کردن در دسترس نیست
+not_in_the_latest_scan: در آخرین اسکن پیدا نشد
+nothing_from_n_is_in_the: هیچ آهنگی از {0} در صف پخش نیست
+nothing_from_this_n_in_the: هیچ آهنگی از این {0} در صف پخش نیست
+nothing_in_your_queue: صف پخش خالی است
+nothing_is_playing: چیزی در حال پخش نیست
+nothing_new_to_add: مورد جدیدی برای افزودن نیست
+nothing_new_to_add_to_n: مورد جدیدی برای افزودن به «{0}» نیست
+nothing_new_to_import: مورد جدیدی برای وارد کردن نیست
+nothing_to_import: چیزی برای وارد کردن نیست
+nothing_to_move: موردی برای جابه‌جایی نیست
+nothing_to_play: چیزی برای پخش نیست
+nothing_to_reverse: چیزی برای معکوس کردن ترتیب وجود ندارد
+nothing_to_share: چیزی برای اشتراک‌گذاری نیست
+nothing_to_shuffle: چیزی برای پخش تصادفی وجود ندارد
+nothing_to_sort: چیزی برای مرتب‌سازی نیست
+nothing_was_downloading: چیزی در حال دانلود نبود
+notify_latest_updates: اطلاع‌رسانی دربارهٔ آخرین به‌روزرسانی‌ها
+number_of_tracks: تعداد آهنگ‌ها
+state_off: خاموش
+offline_cache_cleared_n_mb: حافظهٔ موقت آفلاین پاک شد ({0:.1f} مگابایت)
+offline_library_cache: حافظهٔ موقت آفلاین کتابخانه
+offline_mode: حالت آفلاین
+offline_mode_no_downloaded_tracks_to: 'حالت آفلاین: آهنگ دانلودشده‌ای برای پخش وجود ندارد'
+offline_mode_no_more_downloaded_tracks: 'حالت آفلاین: آهنگ دانلودشدهٔ دیگری باقی نمانده است'
+state_on: روشن
+only_this_topic: فقط همین موضوع
+open_artist_in_library: باز کردن هنرمند در کتابخانه
+open_artist_page_in_library: باز کردن صفحهٔ هنرمند در کتابخانه
+open_chat: باز کردن گفتگو
+open_library: باز کردن کتابخانه
+open_music: باز کردن موزیک +
+open_music_settings: باز کردن تنظیمات موزیک +
+open_music_to_view_this_artist: برای دیدن این هنرمند در کتابخانه، موزیک + را باز کنید
+open_profile: باز کردن پروفایل
+open_telegrams_player: باز کردن پخش‌کنندهٔ تلگرام
+open_the_original_message: باز کردن پیام اصلی
+open_the_source_of_the_current: باز کردن منبع صف پخش فعلی
+opens_faster_uses_a_little_more: سریع‌تر باز می‌شود؛ اما کمی حافظهٔ بیشتری مصرف می‌کند.
+organizing_forum_tracks: در حال مرتب‌سازی آهنگ‌های انجمن…
+original: اصلی
+other: سایر
+pause_after_the_playing_track_finishes: به‌جای توقف فوری، پس از پایان آهنگ در حال پخش مکث می‌کند.
+pause_playback_after_a_set_time: توقف موقت پخش پس از مدت‌زمان مشخص یا در پایان آهنگ
+pause_playback_automatically: توقف موقت خودکار پخش
+pauses_at_the_end_of_this: در پایان این آهنگ پخش را متوقف می‌کند
+pauses_in_n: تا {0} دیگر پخش متوقف می‌شود
+pin_artist: سنجاق کردن هنرمند
+pitch: زیر و بمی صدا
+play: پخش
+play_a_track_from_any_chat: یک آهنگ را از هر گفتگویی پخش کنید یا از کتابخانه شروع کنید. هر آهنگی که به صف اضافه کنید، اینجا نمایش داده می‌شود.
+play_next: پخش بعدی
+play_next_failed: پخش بعدی انجام نشد
+play_this_track_next: پخش این آهنگ در نوبت بعد
+playback: پخش
+playback_queue: پخش و صف آهنگ‌ها
+playback_settings: تنظیمات پخش
+playback_stopped_start_a_track_first: پخش متوقف شده است؛ ابتدا یک آهنگ را شروع کنید
+player_not_available: پخش‌کننده در دسترس نیست
+playing_next: در نوبت پخش بعدی
+playlist: فهرست پخش
+playlist_n_n_tracks: پلی‌لیست «{0}» · {1} آهنگ
+playlist_name: نام فهرست پخش
+playlist_reversed: ترتیب پلی‌لیست برعکس شد
+playlist_shuffled: پلی‌لیست به‌هم ریخت
+playlists: فهرست‌های پخش
+position_in_the_bottom_bar_empty: جایگاه در نوار پایین. اگر خالی باشد، در آخر قرار می‌گیرد.
+preparing_chat_rescan: در حال آماده‌سازی برای اسکن دوبارهٔ گفتگو…
+prevents_queue_regeneration_when_track_played: هنگام پخش آهنگ از گفتگوهای دیگر، از ساخته‌شدن دوبارهٔ صف پخش جلوگیری می‌کند.
+previous_button_in_small_player: دکمهٔ آهنگ قبلی در پلیر کوچک
+previous_track: آهنگ قبلی
+profile: پروفایل
+profile_music_is_full_saved_n: فضای موسیقی پروفایل پر است · {0} ذخیره شد
+profile_music_shortcuts: میان‌برهای موسیقی پروفایل
+profile_playlist: فهرست پخش پروفایل
+profile_playlist_failed: عملیات فهرست پخش پروفایل ناموفق بود
+profile_playlist_set_n: فهرست پخش پروفایل تنظیم شد · {0}
+profile_playlist_note: تغییرات این فهرست پخش در کارت «فهرست پخش پروفایل» شما هم اعمال می‌شود.
+profile_playlist_tap_to_load: فهرست پخش پروفایل · برای بارگذاری بزنید
+queue: صف پخش
+queue_action_failed: انجام عملیات صف پخش ناموفق بود
+queue_and_library: صف پخش و کتابخانه
+queue_built_but_playback_couldnt_start: صف پخش ساخته شد، اما پخش شروع نشد
+queue_changed_cant_undo: صف پخش تغییر کرده است؛ امکان بازگردانی وجود ندارد
+queue_changed_meanwhile_reopen_the_editor: صف پخش در این فاصله تغییر کرده است؛ ویرایشگر را دوباره باز کنید
+queue_changed_stopped_loading_the_rest: صف پخش تغییر کرد؛ بارگذاری بقیهٔ فهرست متوقف شد
+queue_editor_failed_n: 'ویرایش صف پخش ناموفق بود: {0}'
+queue_filtered_n_n_tracks: 'صف پخش فیلتر شد ({0}): {1} آهنگ'
+queue_finished_but_the_ui_couldnt: صف پخش کامل شد، اما رابط کاربری به‌روزرسانی نشد
+queue_is_empty: صف پخش خالی است
+queue_is_locked_but_this_track: صف پخش قفل است، اما افزودن این آهنگ ممکن نشد
+queue_is_locked_but_this_track_2: صف پخش قفل است، اما افزودن این آهنگ برای پخش بعدی ممکن نشد
+queue_kept_unchanged_couldnt_open_the: صف پخش بدون تغییر باقی ماند؛ باز کردن پنجرهٔ انتخاب ممکن نشد
+queue_loading_stopped: بارگذاری صف پخش متوقف شد
+queue_options: گزینه‌های صف پخش
+queue_reversed: ترتیب صف پخش برعکس شد
+queue_shuffled: ترتیب صف پخش تصادفی شد
+queue_unfiltered: فیلتر صف پخش برداشته شد
+random_order: ترتیب تصادفی
+reading_profile_music_n_tracks: در حال خواندن موسیقی پروفایل… {0} آهنگ
+reading_your_profile_music: در حال خواندن موسیقی پروفایلتان…
+refresh_this_users_public_profile_playlist: تازه‌سازی فهرست پخش عمومی پروفایل این کاربر
+reloads_a_chats_or_friends_tracks: هنگام شروع برنامه، آهنگ‌های یک گفتگو یا دوست را دوباره بارگذاری می‌کند. در گفتگوهای بزرگ ممکن است سنگین باشد.
+remove: حذف
+remove_from_library: حذف از کتابخانه
+remove_from_liked_songs: حذف از آهنگ‌های پسندیده
+remove_from_the_top_of_artists: برداشتن از بالای فهرست هنرمندان
+remove_the_other_queued_tracks: حذف سایر آهنگ‌های صف پخش
+removed_from_library_change_this_later: از کتابخانه حذف شد. بعداً می‌توانید این مورد را در فهرست هنرمندان مستثناشده در تنظیمات افزونه تغییر دهید.
+removed_n: «{0}» حذف شد
+removed_n_2: '{0} حذف شد'
+removed_n_tracks: '{0} آهنگ حذف شد'
+removed_the_unavailable_track: آهنگِ در دسترس نبود حذف شد
+removing_old_tracks_n_of_n: 'در حال حذف آهنگ‌های قدیمی: {0} از {1}…'
+rename_playlist: تغییر نام فهرست پخش
+reorder_library_sections: تغییر ترتیب بخش‌های کتابخانه
+repeat: تکرار
+repeat_all: تکرار همه
+repeat_one: تکرار همین آهنگ
+replaces_the_music_bar_above_chats: نوار موسیقی بالای گفتگوها را با نوار فشردهٔ موزیک + جایگزین می‌کند
+replace_the_queue: جایگزینی صف پخش
+rescan: اسکن دوباره
+rescan_this_chat: اسکن دوبارهٔ این گفتگو
+rescanning: در حال اسکن دوباره…
+rescanning_chat_n_new_tracks_found: اسکن دوبارهٔ گفتگو · {0} آهنگ جدید پیدا شد
+reset_playback_settings: بازنشانی تنظیمات پخش
+reset_to_default: بازنشانی به پیش‌فرض
+respect_forum_topic: رعایت موضوع انجمن
+respect_hashtag_chat_search: رعایت جست‌وجوی هشتگ / گفتگو
+restart_the_app_to_apply: برای اعمال تغییرات، برنامه را دوباره اجرا کنید
+restore: بازیابی
+restored: بازیابی شد
+restored_n_to_library: '{0} به کتابخانه بازگردانده شد'
+resume_last_queue_n_tracks: ادامهٔ آخرین صف پخش · {0} آهنگ
+reverse: معکوس کردن
+reverse_order: معکوس کردن ترتیب
+reverse_the_current_track_order: معکوس کردن ترتیب فعلی آهنگ‌ها
+reverse_undone: برعکس کردن ترتیب لغو شد
+save: ذخیره
+save_album_cover_to_gallery: ذخیرهٔ کاور آلبوم در گالری
+save_as_playlist: ذخیره به‌عنوان فهرست پخش
+save_this_users_profile_music_to: ذخیرهٔ موسیقی پروفایل این کاربر در کتابخانه › دوستان
+save_to_gallery: ذخیره در گالری
+save_to_music: ذخیره در موسیقی
+save_up_to_100_tracks_at: هر بار حداکثر ۱۰۰ آهنگ ذخیره کن
+saved_cover_to_gallery: کاور در گالری ذخیره شد
+saved_messages: پیام‌های ذخیره‌شده
+saved_n_n_tracks: «{0}» ذخیره شد · {1} آهنگ
+saved_n_to_library_friends: '{0} در کتابخانه › دوستان ذخیره شد'
+saved_n_tracks_n_failed: '{0} آهنگ ذخیره شد، ذخیرهٔ {1} مورد ناموفق بود'
+saved_n_tracks_to_music: '{0} آهنگ در موسیقی ذخیره شد'
+saved_playlists: فهرست‌های پخش ذخیره‌شده
+saved_to_music: در موسیقی ذخیره شد
+saves_a_backup_file_to_your: یک نسخهٔ پشتیبان در پیام‌های ذخیره‌شده می‌فرسته. برای وارد کردنش روی فایل بزنید.
+saves_each_library_chats_tracks_on: آهنگ‌های هر گفتگوی کتابخانه را روی حافظهٔ دستگاه ذخیره می‌کند؛ پس از راه‌اندازی مجدد فوراً در دسترس‌اند، آفلاین کار می‌کنند و حافظهٔ کمتری مصرف می‌شود.
+saves_the_previous_queue_as_a: هنگام پاک کردن صف یا ساخت صف جدید، صف قبلی را به‌عنوان فهرست پخش «صف پخش قبلی» ذخیره می‌کند.
+saving_n_of_n: در حال ذخیرهٔ {0} از {1}…
+search: جست‌وجو
+search_again: جست‌وجوی دوباره
+search_and_pin_your_favorite_artists: هنرمندان دلخواهتان را جست‌وجو و سنجاق کنید تا راحت‌تر به آن‌ها دسترسی داشته باشید.
+search_for_artist: جست‌وجوی هنرمند
+search_for_artist_in_telegram_music: جست‌وجوی هنرمند در موسیقی تلگرام
+search_library: جست‌وجو در کتابخانه
+search_results: نتایج جست‌وجو
+search_telegram_music_for_this_artist: جست‌وجوی این هنرمند در موسیقی تلگرام
+searching_for_downloaded_songs: در حال جست‌وجوی آهنگ‌های دانلودشده…
+select: انتخاب
+select_all: انتخاب همه
+select_at_least_one_track: حداقل یک آهنگ انتخاب کنید
+select_tracks: انتخاب آهنگ‌ها
+select_up_to_100_tracks: حداکثر ۱۰۰ آهنگ انتخاب کنید
+selection: انتخاب
+sent_to_n: به {0} فرستاده شد
+sent_to_saved_messages: به پیام‌های ذخیره‌شده فرستاده شد
+set_as_profile_playlist: تنظیم به‌عنوان فهرست پخش پروفایل
+setting_profile_playlist: در حال تنظیم فهرست پخش پروفایل…
+share_as_playlist: اشتراک‌گذاری به‌صورت پلی‌لیست
+share_with_other_music_users: اشتراک‌گذاری با بقیهٔ کاربران Music+
+short_blend_when_you_change_tracks: هنگام عوض کردن آهنگ، یک ترکیب کوتاه بین آن‌ها ایجاد می‌کند
+show_as: 'نمایش به‌صورت '
+show_in_chat: نمایش در گفتگو
+show_music_as_a_tab: نمایش موزیک + به‌صورت زبانه
+show_music_in_navigation_drawer: نمایش موزیک + در منوی کناری
+showing_n_dupe_tracks_from_this: در حال نمایش {0} آهنگ تکراری از این آلبوم
+showing_n_duplicate_tracks: در حال نمایش {0} آهنگ تکراری
+showing_the_first_30_track_matches: ۳۰ نتیجهٔ اول آهنگ‌ها نمایش داده می‌شود.
+shuffle: پخش تصادفی
+shuffle_is_on_order_applies_once: پخش تصادفی روشن است؛ ترتیب پس از خاموش کردن آن اعمال می‌شود
+shuffle_undone: پخش تصادفی لغو شد
+shuffled: تصادفی پخش می‌شه
+singles: تک‌آهنگ‌ها
+skip_tracks_that_arent_downloaded: رد کردن آهنگ‌هایی که دانلود نشده‌اند
+sleep_timer: زمان‌سنج خواب
+sleep_timer_pausing_after_this_track: 'زمان‌سنج خواب: پس از این آهنگ مکث می‌کند'
+sleep_timer_playback_paused: 'زمان‌سنج خواب: پخش متوقف شد'
+sort: مرتب‌سازی
+sort_artists: مرتب‌سازی هنرمندان
+sort_by_title_artist_duration_or: مرتب‌سازی بر اساس عنوان، هنرمند، مدت‌زمان یا ترتیب معکوس
+sort_playlist: مرتب‌سازی فهرست پخش
+sort_playlists: مرتب‌سازی فهرست‌های پخش
+sort_queue: مرتب‌سازی صف پخش
+sort_tracks: مرتب‌سازی آهنگ‌ها
+sort_undone: مرتب‌سازی لغو شد
+speed: سرعت
+start_playing_a_track_first: ابتدا پخش یک آهنگ را شروع کنید
+starting: در حال شروع…
+still_loading_this_song: این آهنگ هنوز در حال بارگذاری است…
+stop_downloading_the_selected_tracks: توقف دانلود آهنگ‌های انتخاب‌شده
+stop_downloading_this_track: توقف دانلود این آهنگ
+stopped_after_n: پس از {0} متوقف شد
+tab_position: جایگاه زبانه
+tap_find_downloaded_songs_to_look: برای پیدا کردن آهنگ‌های ذخیره‌شده در این دستگاه، روی «پیدا کردن آهنگ‌های دانلودشده» بزنید.
+tap_to_hide_them: برای پنهان کردنشان بزنید
+tap_to_open_the_section_order: برای باز کردن ویرایشگر ترتیب بخش‌ها بزنید.
+tap_to_show_them_in_list: برای نمایش آن‌ها به‌صورت فهرست بزنید
+tap_tracks_to_select: برای انتخاب، روی آهنگ‌ها بزنید
+telegram_asks_to_wait_n_s: تلگرام خواسته {0} ثانیه صبر کنید…
+telegram_couldnt_save_the_file: تلگرام نتوانست فایل را ذخیره کند
+the_built_in_full_player: پخش‌کنندهٔ کامل داخلی
+the_current_track_will_keep_playing: آهنگ فعلی به پخش ادامه می‌دهد.
+the_queue_is_locked: صف پخش قفل است
+the_whole_group_all_topics: کل گروه، همهٔ موضوع‌ها
+this_chat: این گفتگو
+this_isnt_a_music_backup: این فایل نسخهٔ پشتیبان Music + نیست
+this_only_removes_the_saved_shortcut: این کار فقط میان‌بر ذخیره‌شده را حذف می‌کند
+this_playlist_is_empty_use_add: این فهرست پخش خالی است. از یک گفتگو یا فهرست پخش دیگر، گزینهٔ «افزودن به» را انتخاب کنید.
+this_topic: این موضوع
+those_tracks_arent_available_any_more: آن آهنگ‌ها دیگر در دسترس نیستند
+title: عنوان
+to_the_bottom: به انتهای فهرست
+to_the_end_of_the_queue: به انتهای صف پخش
+topic: موضوع
+topic_n: موضوع {0}
+topic_search_results: نتایج جست‌وجوی موضوع
+track_actions: گزینه‌های آهنگ
+track_count: تعداد آهنگ‌ها
+track_end: پایان آهنگ
+track_length: مدت آهنگ
+track_title: عنوان آهنگ
+tracks: آهنگ‌ها
+turn_off_timer: خاموش کردن زمان‌سنج
+turns_off_lock_queue: قفل صف پخش را خاموش می‌کند
+unavailable_deleted_or_too_old_to: در دسترس نیست؛ حذف شده یا برای بارگذاری بیش از حد قدیمی است
+undo: بازگردانی
+undo_unavailable_in_this_telegram_build: ' — بازگردانی در این نسخهٔ تلگرام در دسترس نیست'
+unknown_artist: هنرمند ناشناس
+unlimited: نامحدود
+unpin_artist: برداشتن سنجاق هنرمند
+updated_n_in_library_friends: '{0} در کتابخانه › دوستان به‌روزرسانی شد'
+updates: به‌روزرسانی‌ها
+use_the_queue_as_your_profile: استفاده از صف پخش به‌عنوان موسیقی پروفایل
+use_this_artists_tracks_as_your: استفاده از آهنگ‌های این هنرمند به‌عنوان موسیقی پروفایل
+use_this_chats_music_as_your: استفاده از موسیقی این گفتگو به‌عنوان موسیقی پروفایل
+use_this_n_s_music_as: استفاده از موسیقی این {0} به‌عنوان موسیقی پروفایل
+use_this_playlist_as_your_profile: استفاده از این فهرست پخش به‌عنوان موسیقی پروفایل
+view_artist: دیدن هنرمند
+view_chat: مشاهدهٔ گفتگو
+view_the_users_telegram_profile: مشاهدهٔ پروفایل تلگرام کاربر
+view_update: مشاهدهٔ به‌روزرسانی
+when_it_was_last_played: زمان آخرین پخش
+when_tapping_music_outside_the_queue: هنگام زدن روی موسیقی خارج از صف پخش
+when_the_playlist_was_made: زمان ساخت فهرست پخش
+your_current_music_settings_will_be: تنظیمات فعلی Music + جایگزین می‌شن؛ هنرمندهای حذف‌شده با هم ادغام می‌شن.
+your_own_profile_doesnt_need_to: لازم نیست پروفایل خودتان را به‌عنوان دوست ذخیره کنید
+youre_up_to_date_current_version: 'از آخرین نسخه استفاده می‌کنید
+
+  نسخهٔ فعلی: v{0}'
+archive_forward_consent: "آهنگ‌های فهرست پخش برای دسترسی‌پذیری به @{0} فوروارد می‌شوند؛ ادامه می‌دهید؟"
+proceed: "ادامه"
+forwarding_to_archive: "در حال فوروارد به @{0}"
+forwarded_n_of_n_tracks: "{0} از {1} آهنگ فوروارد شد"
+archive_resolve_failed: "دسترسی به @{0} ممکن نشد ({1})"
+archive_join_first: "ابتدا به @{0} بپیوندید، سپس دوباره اشتراک‌گذاری کنید"
+archive_forward_failed: "فوروارد آهنگ‌ها انجام نشد ({0})"
+archive_n_tracks_skipped: "{0} آهنگ فوروارد نشد و کنار گذاشته شد"
+archive_resolving: "در حال یافتن @{0}…"
+playlist_created: "پلی‌لیست ساخته شد."
+copy_link: "کپی لینک"
+forward_file: "فوروارد فایل"
+how_to_use: "راهنما؟"
+link_copied: "لینک کپی شد"
+archive_link_unavailable: "لینک پلی‌لیست از آرشیو دریافت نشد"
+archive_count_note: "انتخاب‌شده {0} · قابل‌خواندن {1} · یکتا {2} · در فایل {3} · کنار گذاشته {4}"
+archive_summary: "{0} از {1} آهنگ اضافه شد"
+archive_left_out: "کنار گذاشته شد ({0}):"
+archive_why_restricted: "{0} از چت‌هایی که فوروارد را محدود کرده‌اند"
+archive_why_missing: "{0} دیگر در دسترس نیست (حذف شده یا از چت خارج شده‌اید)"
+archive_why_other: "{0} خطای دیگر"
+equalizer: اکولایزر
+equalizer_is_unavailable: اکولایزر در دسترس نیست
+equalizer_needs_a_playing_track: با پخش آهنگ اعمال می‌شود
+shape_bass_treble_and_tone: تنظیم باس، تربل و تُن صدا
+reset_equalizer: بازنشانی اکولایزر
+eq_presets: پیش‌تنظیم‌ها
+eq_effects: افکت‌ها
+eq_custom: سفارشی
+eq_save_preset: ذخیره به‌عنوان پیش‌تنظیم
+eq_preset_name: نام پیش‌تنظیم
+eq_delete_preset: حذف پیش‌تنظیم
+eq_flat: تخت
+eq_bass_boost: باس
+eq_treble_boost: تربل
+eq_vocal: وکال
+eq_rock: راک
+eq_pop: پاپ
+eq_jazz: جاز
+eq_classical: کلاسیک
+eq_electronic: الکترونیک
+eq_hip_hop: هیپ‌هاپ
+eq_acoustic: آکوستیک
+eq_lounge: لانج
+bass_boost: تقویت باس
+surround: صدای فراگیر
+loudness: بلندی صدا
+waiting_for_track_to_load: "در انتظار بارگذاری آهنگ…"
+skipped_loading_track: "«{0}» رد شد — هنوز در حال بارگذاری بود"
+skipped_loading_track_plain: "آهنگی که هنوز بارگذاری نشده بود رد شد"
+stall_timeout: "رد کردن آهنگی که دیر بارگذاری می‌شود"
+n_seconds: "{0} ثانیه"
+auto: "خودکار"
+offline_mode_modes_sub: "خاموش: پخش همه. روشن: فقط دانلودشده‌ها. خودکار: فقط دانلودشده‌ها هنگام نبود اتصال."
+cancel_skipped_download: "لغو دانلود آهنگ‌های ردشده"
+cancel_skipped_download_sub: "رد کردن آهنگی که هنوز در حال دانلود است، دانلود آن را متوقف می‌کند."
+preload_next_track: "بارگذاری پیشاپیش آهنگ بعدی"
+preload_next_track_sub: "تلگرام آهنگ بعدی را از قبل دانلود می‌کند."
+cancel_unused_preload: "لغو بارگذاری پیشاپیش با تغییر آهنگ بعدی"
+cancel_unused_preload_sub: "اگر آهنگ دیگر بعدی نباشد، بارگذاری ناتمام آن متوقف می‌شود."
+network: "شبکه"
+
+player_bar_height: ارتفاع نوار پخش
+n_dp: "{0} dp"
+applies_to_the_custom_player_bar: با نوار پخش اختصاصی کار می‌کند؛ برای اعمال، گفتگو را دوباره باز کنید
+artwork_tint: "رنگ کاور"
+tints_the_player_with_the_tracks_artwork_color: "به‌جای رنگ اصلی تلگرام از میانگین رنگ کاور آهنگ استفاده می‌شود"
+queue_color_animation: "انیمیشن رنگ صف"
+queue_color_animation_hint: "حالت خودکار از صرفه‌جویی انرژی تلگرام پیروی می‌کند و در گوشی‌های ضعیف یا شلوغ ساده‌تر می‌شود. نوار پلیر و مینی‌پلیر همیشه انیمیشن دارند"
+queue_anim_auto: "خودکار"
+queue_anim_always: "همیشه انیمیشن"
+queue_anim_never: "تغییر آنی رنگ"
+tab_chats: "گفتگوها"
+tab_contacts: "مخاطبین"
+tab_feed: "فید"
+tab_settings: "تنظیمات"
+tab_profile: "پروفایل"
+music_tab: "زبانه Music"
+tab_preview_failed: "پیش‌نمایش باز نشد"
+tab_note_replace: "Music جای زبانه مخاطبین را می‌گیرد."
+tab_note_replace_feed: "فید روشن است، پس Music جای فید را می‌گیرد."
+tab_note_add_at: "Music به‌صورت زبانه جداگانه در جایگاه {0} اضافه می‌شود."
+tab_note_add_end: "Music به‌صورت زبانه جداگانه در انتها اضافه می‌شود."
+tab_note_off: "زبانه Music وجود ندارد. نوار مثل تلگرام می‌ماند."
+tab_sheet_title: "زبانه Music"
+tab_sheet_sub: "تغییرات بلافاصله در پیش‌نمایش دیده می‌شود"
+tab_row: "زبانه Music: {0}"
+tab_state_off: "خاموش"
+tab_state_replace: "جایگزین «{0}»"
+tab_state_add: "زبانه جداگانه"
+tab_section_where: "جایگاه"
+tab_section_position: "موقعیت"
+tab_opt_off: "خاموش"
+tab_opt_off_sub: "نوار پایین مثل تلگرام می‌ماند"
+tab_opt_replace: "جایگزینی زبانه «{0}»"
+tab_opt_replace_sub: "Music جای آن زبانه را می‌گیرد (پیشنهادی)"
+tab_opt_add: "زبانه جداگانه Music"
+tab_opt_add_sub: "زبانه‌ای جدید اضافه می‌شود و بقیه می‌مانند"
+tab_pos_after: "بعد از «{0}»"
+tab_pos_last: "در انتها"
+tab_opt_replace_off: "زبانه مخاطبین در تلگرام خاموش است. برای استفاده از این گزینه آن را آنجا روشن کنید."
+tab_opt_replace_settings_sub: "Music جای زبانه تنظیمات را می‌گیرد"
+tab_note_contacts_off: "زبانه مخاطبین در تلگرام خاموش است و چیزی برای جایگزینی نیست. آن را در تلگرام روشن کنید یا گزینه دیگری بردارید."
+tab_note_replace_settings: "Music جای زبانه تنظیمات را می‌گیرد."
+tab_state_contacts_off: "زبانه مخاطبین در تلگرام خاموش است"
+tab_restart_title: "تلگرام دوباره اجرا شود؟"
+tab_restart_msg: "تغییر زبانه‌ها فقط پس از راه‌اندازی کامل اعمال می‌شود. تلگرام در پس‌زمینه فعال می‌ماند، پس بستن آن از لیست برنامه‌های اخیر کافی نیست."
+tab_restart_now: "اکنون راه‌اندازی شود"
+tab_restart_later: "بعداً"
+md3_player_msg: "موزیک + با پلیر Material Design 3 در exteraGram سازگار نیست. لطفاً «ظاهر > Material Design 3 > پلیر» را خاموش کنید.\n\nبرای رفتن به تنظیمات «باز کردن تنظیمات» را بزنید."
+md3_player_ok: "تأیید"
+md3_player_settings: "باز کردن تنظیمات"
+md3_player_never: "دیگر نمایش نده"
+plugin_description: "تجربه‌ای تازه از موسیقی در تلگرام، با کتابخانه، متن آهنگ و مدیریت بهتر صف پخش"
+save_for_this_track_only: فقط برای این آهنگ ذخیره شود
+speed_and_pitch_apply_to_this_track_always: سرعت و زیر و بمی همیشه فقط برای این آهنگ اعمال می‌شود، نه سراسری
+resume_the_queue: ازسرگیری آخرین صف
+offers_the_last_started_queue_up_to: وقتی صفی نیست، آخرین صف شروع‌شده (تا ۱۰۰ آهنگ) را بازمی‌گرداند
+couldnt_resume_the_queue: ازسرگیری صف ممکن نشد
+show_player_bar_on_start: "نمایش نوار پخش هنگام شروع"
+show_player_bar_on_start_sub: "هنگام بارگذاری افزونه، نوار پخش با آخرین آهنگ نمایش داده می‌شود. خاموش: صف فقط با باز کردن تب موسیقی بازیابی می‌شود"
+update_restart_title: "Music + به‌روزرسانی شد"
+update_restart_msg: "Music + به نسخهٔ v{0} به‌روزرسانی شد. برای اجرای درست نسخهٔ جدید، تلگرام را دوباره راه‌اندازی کنید. تلگرام در پس‌زمینه فعال می‌ماند، پس بستن آن از لیست برنامه‌های اخیر کافی نیست."
+music_card_in_chats: "کارت Music + در چت‌ها"
+music_card_in_chats_sub: "کارت پخش‌کننده‌ی سفارشی روی پیام‌های موسیقی، با دکمه‌ی پسندیدن و دکمه‌ی منوی زمینه"
+
+loading_queue: "در حال بارگذاری صف…"
+
+lyrics_options: "گزینه‌های متن آهنگ"
+lyrics_source: "منبع متن آهنگ"
+lyrics_source_sub: "نسخهٔ متن آهنگ را انتخاب کنید"
+lyrics_sync: "تنظیم همگام‌سازی"
+lyrics_sync_sub: "اصلاح متنی که زودتر یا دیرتر می‌آید"
+lyrics_sync_hint: "مثبت: متن دیرتر نمایش داده می‌شود. منفی: زودتر."
+lyrics_reset_track: "بازنشانی برای این آهنگ"
+lyrics_reset_track_sub: "بازگشت به منبع خودکار و بدون جابه‌جایی زمان"
+lyrics_searching: "در حال جست‌وجوی متن…"
+lyrics_none_found: "متن دیگری پیدا نشد"
+lyrics_kind_word: "همگام کلمه‌به‌کلمه"
+lyrics_kind_line: "همگام خط‌به‌خط"
+lyrics_kind_plain: "بدون همگام‌سازی"
+lyrics_auto: "خودکار"
+lyrics_auto_sub: "بهترین نتیجهٔ یافت‌شده"
+lyrics_local: "فایل محلی"
+lyrics_reset: "بازنشانی"
+lyrics_done: "تأیید"
+show_crash_reports: "نمایش گزارش خرابی"
+show_crash_reports_sub: "پس از خرابی، در اجرای بعدی گزارشی قابل کپی نشان می‌دهد. به‌طور پیش‌فرض خاموش است."
+lyrics_search_edit: "ویرایش جستجو"
+lyrics_search_edit_sub: "تغییر عنوان یا خواننده‌ای که برای یافتن متن آهنگ استفاده می‌شود"
+lyrics_search_title: "جستجوی متن آهنگ"
+lyrics_search_note: "منابع متن آهنگ با همین کلمات جستجو می‌شوند. برچسب‌های فایل تغییر نمی‌کنند."
+lyrics_field_title: "عنوان"
+lyrics_field_artist: "خواننده (اختیاری)"
+lyrics_search_go: "جستجو"
+lyrics_search_busy: "در حال جستجو…"
+lyrics_search_need_title: "عنوان را وارد کنید"
+lyrics_search_nothing: "چیزی پیدا نشد. کلمات کمتری امتحان کنید یا املای دیگری از عنوان یا خواننده."
+lyrics_search_offline: "اتصال برقرار نیست. وصل شوید و دوباره تلاش کنید."
+lyrics_tap_to_search: "برای جستجو با عنوان یا خواننده‌ی دیگر بزنید"
+profile_sync_failed: "همگام‌سازی پلی‌لیست پروفایل ناموفق بود: {0}"

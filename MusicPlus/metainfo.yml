@@ -1,0 +1,9 @@
+id: aj_music_plus
+name: "Music +"
+description: "{plugin_description}"
+author: "@AJ_Plugins"
+version: "1.5"
+icon: ajsplugins/1
+min_version: "12.10.6"
+app_version: ">=12.10.6"
+sdk_version: ">=1.4.4.3"

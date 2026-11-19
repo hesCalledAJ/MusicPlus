@@ -1,0 +1,759 @@
+1_hour: 1 час
+1_track: 1 трек
+add_a_chat_from_its_music: Откройте меню Music + в чате и выберите «Добавить чат в библиотеку».
+add_a_user_from_their_music: Откройте меню Music + у пользователя и выберите «Добавить в друзья».
+add_as_friend: Добавить в друзья
+add_chat_to_library: Добавить чат в медиатеку
+add_this_track_to_a_playlist: Добавить этот трек в плейлист
+add_this_track_to_the_end: Добавить этот трек в конец
+add_this_track_to_the_queue: Добавить этот трек в очередь или плейлист
+add_to: Добавить в
+add_to_end: Добавить в конец
+add_to_failed: Не удалось добавить
+add_to_liked_songs: Добавить в «Понравившиеся»
+add_to_profile_playlist: Добавить в плейлист профиля
+add_to_queue_failed: Не удалось добавить в очередь
+add_topic_to_library: Добавить тему в медиатеку
+add_your_favorite_chats_to_library: Добавьте любимые чаты в библиотеку, чтобы находить исполнителей.
+added_n_downloaded_tracks: 'Добавлено загруженных треков: {0}'
+added_n_to_library_chats: «{0}» добавлен в Медиатеку › Чаты
+added_n_to_profile_music: 'Добавлено в музыку профиля: {0}'
+added_n_tracks_n: 'Добавлено треков: {0} {1}'
+added_n_tracks_n_n: 'Добавлено треков: {0} {1}{2}'
+added_n_tracks_to_n: 'Добавлено треков в плейлист «{1}»: {0}'
+added_to_play_next: Добавлено следующим
+added_to_queue: Добавлено в очередь
+added_to_the_end_of_the: Добавлено в конец очереди
+adding_to_profile_music: Добавление в музыку профиля…
+adds_a_music_tab_to_the: Добавляет вкладку «Музыка» в нижнюю панель
+replace_contacts_tab: Заменить вкладку «Контакты»
+tab_add_unsupported: "Не удалось добавить вкладку в эту панель. Попробуйте «Заменить вкладку «Контакты»»."
+replaces_the_contacts_tab_with_music: Использует вкладку «Контакты» для музыки вместо новой вкладки
+adds_music_to_the_side_menu: Добавляет Music + в боковое меню
+album: Альбом
+album_artwork_hasnt_loaded_yet: Обложка альбома ещё не загрузилась
+album_covers_from_itunes: Обложки альбомов из iTunes
+albums: Альбомы
+all: Все
+all_of_them_are_already_downloaded: Всё это уже скачано
+all_saved_track_lists_are_deleted: Все сохранённые списки треков будут удалены с этого устройства и загружены заново при необходимости. Плейлисты и чаты медиатеки останутся.
+alphabetical: По алфавиту
+already_downloaded: Уже загружено
+already_downloading: Уже скачивается
+already_in_library: Уже в медиатеке
+already_in_queue_no_player: Уже в очереди / плеер недоступен
+already_in_the_queue: Уже в очереди
+always_show_at_the_top_of: Всегда показывать вверху списка исполнителей
+appearance: Оформление
+appends_to_your_profile_music: Добавляется в музыку вашего профиля
+applies_in_portrait_mode_only: Только в портретной ориентации.
+artist: Исполнитель
+artist_name: Имя исполнителя
+artist_name_unavailable: Имя исполнителя недоступно
+artist_page_album_chips_use_itunes: Альбомы на странице исполнителя показываются с обложками iTunes вместо обложки первого трека.
+artists: Исполнители
+artists_you_remove_from_the_library: Исполнители, удалённые из медиатеки, появятся здесь.
+ascending: По возрастанию
+ask_every_time: Спрашивать каждый раз
+asks_for_a_name: Запрашивает название
+audio: Аудио
+author_n: 'Автор: {0}'
+auto_refresh_chats_on_open: Автообновление чатов при открытии
+back_to_library: Назад в медиатеку
+better_sleep_timer: Улучшенный таймер сна
+blend_the_end_of_a_track: Плавный переход от конца трека к следующему
+cache_last_queue: Сохранять последнюю очередь
+cancel: Отмена
+cancel_downloading: Отменить загрузку
+cancelled_n_downloads: 'Отменено загрузок: {0}'
+cancelled_saving_to_music: Сохранение в «Музыку» отменено
+cant_determine_this_chat: Не удалось определить этот чат
+cant_do_that_here: Здесь это невозможно
+cant_open_excluded_artists_here: Здесь нельзя открыть исключённых исполнителей
+cant_open_library_section_order_here: Здесь нельзя открыть порядок разделов медиатеки
+cant_open_music_actions_here: Здесь нельзя открыть действия с музыкой
+cant_open_telegram_search_here: Здесь нельзя открыть поиск Telegram
+cant_open_the_menu_here: Здесь нельзя открыть меню
+cant_open_the_queue_editor_here: Здесь нельзя открыть редактор очереди
+cant_open_this_chat_here: Здесь нельзя открыть этот чат
+cant_open_this_profile_here: Здесь нельзя открыть этот профиль
+cant_remove_the_track_that_is: Нельзя удалить играющий трек
+change_the_playlist_name: Изменить название плейлиста
+change_this_later_in_the_excluded: Это можно изменить позже в списке исключённых исполнителей в настройках плагина
+channel_t_me_aj_plugins: Канал · t.me/AJ_Plugins
+chat: Чат
+chats: Чаты
+checking_for_new_music: Поиск новой музыки…
+checking_n_for_new_tracks: 'Поиск новых треков: {0}…'
+checks_for_a_new_version_when: Проверяет наличие новой версии при открытии Music +
+checks_for_new_songs_hold_for: Ищет новые песни. Удерживайте для полного пересканирования
+choose_the_order_they_appear_in: Выберите порядок их отображения в медиатеке
+clear_cache: Очистить кэш
+clear_library_search: Очистить поиск по медиатеке
+clear_locked_queue: Очистить заблокированную очередь?
+clear_offline_cache: Очистить офлайн-кэш?
+clear_offline_library_cache: Очистить офлайн-кэш медиатеки
+clear_queue: Очистить очередь
+clear_selection: Снять выделение
+cleared_n_tracks: 'Удалено из очереди треков: {0}'
+close: Закрыть
+close_and_unlock_queue: Закрыть и разблокировать очередь
+close_library_search: Закрыть поиск по медиатеке
+close_player: Закрыть плеер?
+collapse_player: Свернуть плеер
+configure_music: Настроить Music +
+containing_n_tracks: 'содержит треков: {0}'
+continue: Продолжить
+could_not_add_as_next: Не удалось добавить следующим
+could_not_play_that_track: Не удалось воспроизвести трек
+could_not_rebuild_the_queue: Не удалось перестроить очередь
+could_not_save_artwork_to_gallery: Не удалось сохранить обложку в галерею
+couldnt_build_the_library_queue_playback: Не удалось собрать очередь из медиатеки; воспроизведение не изменено
+couldnt_check_for_new_music_n: 'Не удалось проверить новую музыку: {0}'
+couldnt_do_that: Не удалось выполнить
+couldnt_download_the_backup: Не удалось скачать резервную копию
+couldnt_find_an_itunes_cover: Не удалось найти обложку в iTunes
+couldnt_identify_this_profile: Не удалось определить этот профиль
+couldnt_load_all_n: Не удалось загрузить всё ({0})
+couldnt_load_music_n: 'Не удалось загрузить музыку: {0}'
+couldnt_load_tap_to_retry: Не удалось загрузить · нажмите, чтобы повторить
+couldnt_load_the_itunes_cover: Не удалось загрузить обложку iTunes
+couldnt_load_this_profile_playlist: Не удалось загрузить плейлист профиля
+couldnt_load_those_tracks_check_your: Не удалось загрузить треки – проверьте соединение
+couldnt_open_artist_in_library: Не удалось открыть исполнителя в медиатеке
+couldnt_open_artist_search: Не удалось открыть поиск исполнителя
+couldnt_open_excluded_artists: Не удалось открыть исключённых исполнителей
+couldnt_open_library_section_order: Не удалось открыть порядок разделов медиатеки
+couldnt_open_music_actions: Не удалось открыть действия с музыкой
+couldnt_open_music_settings: Не удалось открыть настройки Music +
+couldnt_open_telegrams_player: Не удалось открыть плеер Telegram
+couldnt_open_the_chat: Не удалось открыть чат
+couldnt_open_the_forward_picker: Не удалось открыть выбор для пересылки
+couldnt_open_the_queue_n: 'Не удалось открыть очередь: {0}'
+couldnt_open_this_profile: Не удалось открыть этот профиль
+couldnt_read_telegrams_storage_index: Не удалось прочитать индекс хранилища Telegram
+couldnt_remove_artist_from_library: Не удалось удалить исполнителя из медиатеки
+couldnt_remove_that_track: Не удалось удалить трек
+couldnt_restore_the_last_queue: Не удалось восстановить последнюю очередь
+couldnt_save_this_profile: Не удалось сохранить этот профиль
+couldnt_save_to_music: Не удалось сохранить в «Музыку»
+couldnt_send_the_file: Не удалось отправить файл
+couldnt_start_the_queue: Не удалось запустить очередь
+couldnt_update_liked_songs: Не удалось обновить «Понравившиеся»
+couldnt_update_profile_music: Не удалось обновить музыку профиля
+couldnt_update_profile_music_n: Не удалось обновить музыку профиля ({0})
+creation_date: Дата создания
+crossfade: Кроссфейд
+crossfade_is_unavailable: Кроссфейд недоступен
+custom_player_bar: Свой плеер-бар
+default_playback: Обычное воспроизведение
+delete_playlist: Удалить плейлист
+deleted_n: «{0}» удалён
+deletes_the_saved_track_lists_they: Удаляет сохранённые списки треков; при необходимости они загружаются заново.
+descending: По убыванию
+disable_shuffle_for_play_next: Отключать перемешивание при «Играть следующим»
+done: Готово
+download: Загрузить
+download_and_save_this_track: Загрузить и сохранить этот трек
+download_the_selected_tracks: Загрузить выбранные треки
+download_this_track: Загрузить этот трек
+download_up_to_100_tracks_at: Можно загрузить не более 100 треков за раз
+downloaded_songs: Загруженные песни
+downloading_backup: Скачиваем резервную копию…
+downloading_n_tracks: 'Скачиваем треков: {0}'
+downloading_n_tracks_will_save_to: Скачиваем {0} треков… Когда всё будет готово, они появятся в разделе «Музыка»
+downloads_tracks_before_saving: Загружает треки перед сохранением
+drag_to_reorder: Перетащите для изменения порядка
+drag_to_reorder_track: Перетащите трек для изменения порядка
+duration: Длительность
+embedded: Встроенные
+end_of_queue: Конец очереди
+end_of_track: Конец трека
+exclude_from_queue: Исключить из очереди
+excluded_artists: Исключённые исполнители
+excluded_artists_n: Исключённые исполнители ({0})
+excluded_n_tracks_n: 'Исключено треков: {0} · {1}'
+excluded_n_tracks_of_this_n: 'Исключено треков: {0} из {1}{2}'
+expand_the_player_sheet_before_scrolling: Разворачивать плеер перед прокруткой списка
+expand_the_sheet_on_first_scroll: Разворачивать плеер при первой прокрутке
+export_data: Экспортировать данные
+export_library: Экспортировать библиотеку
+export_settings: Экспортировать настройки
+fade_on_skip: Затухание при переключении
+fetch_failed_n_using_loaded_messages: Сбой загрузки ({0}) – используются только уже загруженные сообщения
+find_downloaded_songs: Найти загруженные песни
+find_more_downloaded_songs: Найти ещё загруженные песни
+follow_telegram_blur_glass: Использовать эффекты размытия и стекла Telegram
+forgot_the_last_queue: Последняя очередь забыта
+forward: Переслать
+forward_selected_tracks_to_a_chat: Переслать выбранные треки в чат
+forward_this_track_to_a_chat: Переслать этот трек в чат
+forward_up_to_100_tracks_at: Можно переслать не более 100 треков за раз
+friend: Друг
+friend_profile_playlist: 'Плейлист профиля друга: '
+friends: Друзья
+gave_up_waiting_for_n_download: 'Прекращено ожидание загрузок: {0}'
+general: Общее
+generated_from_your_cached_music: Создаётся из вашей кэшированной музыки
+grid: Сетка
+hidden_artists_n: Скрытые исполнители · {0}
+hidden_from_the_library_restore_an: Скрыты из медиатеки. Восстановите исполнителя, чтобы показать его снова.
+high_quality_album_covers: Обложки альбомов в высоком качестве
+hit_the_n_limit: ' (достигнут лимит {0})'
+import: Импортировать
+import_music_data: Импортировать данные Music +?
+import_music_settings: Импортировать настройки Music +?
+imported_n_n_tracks: 'Импортировано «{0}» — треков: {1}'
+imported_n_playlists_n_tracks_n: 'Импортировано: плейлистов — {0}, треков — {1}, чатов — {2}, друзей — {3}'
+imported_n_settings_restart_the_app: 'Импортировано настроек: {0}. Перезапустите приложение, чтобы применить изменения'
+it_is_merged_with_your_library: Данные объединятся с вашей библиотекой. Уже добавленные плейлисты и чаты будут пропущены. Треки из приватных чатов можно воспроизводить, только если вы состоите в них.
+keep_screen_on_in_lyrics: Не гасить экран в тексте песни
+keep_the_player_sheet_ready: Держать плеер наготове
+kept_the_currently_playing_track_n: Текущий трек оставлен · {0}
+kept_the_playing_one: ' (текущий оставлен)'
+kept_the_playing_track: ' (текущий трек оставлен)'
+kept_your_old_tracks: старые треки сохранены
+kind_bot: Бот
+kind_channel: Канал
+kind_forum: Форум
+kind_group: Группа
+kind_private_chat: Личный чат
+kind_topic: Тема
+last_played: Последнее воспроизведение
+last_queue: Последняя очередь
+last_queue_label: 'ПОСЛЕДНЯЯ ОЧЕРЕДЬ · '
+library: Медиатека
+library_action_failed: Сбой действия в медиатеке
+library_couldnt_load: Не удалось загрузить медиатеку
+library_grid_columns: Столбцов в сетке медиатеки
+library_loading: Загрузка медиатеки
+library_sections: Разделы медиатеки
+library_track_selection: Выбор треков в медиатеке
+like_button_in_small_player: Кнопка «Нравится» в компактном плеере
+liked: Понравилось
+liked_songs: Понравившиеся
+links: Ссылки
+list: Список
+list_sorted: Список отсортирован
+load_more_artists: Загрузить ещё исполнителей
+loaded_n_tracks_from_n_partial: 'Загружено треков: {0} ({1}, частично)'
+loading_chat_n_tracks_loaded: 'Загрузка чата · загружено треков: {0}'
+loading_lyrics: Загрузка текста…
+loading_music_of_this_n: Загрузка музыки ({0})…
+loading_n: ' · Загрузка: {0}…'
+loading_n_2: 'Загрузка: {0}…'
+loading_n_cached_tracks: 'Загрузка кэшированных треков: {0}…'
+loading_n_n_of_n_tracks: 'Загрузка ({0}): {1} из {2} треков…'
+loading_n_n_tracks: 'Загрузка ({0}): треков – {1}…'
+loading_profile_playlist: Загрузка плейлиста профиля…
+loading_song: Загрузка песни…
+loading_songs: Загрузка песен…
+loading_tracks: Загрузка треков…
+loads_better_queue_covers_too_uses: Также загружает обложки лучшего качества в очереди; расходует больше трафика и памяти.
+locate_button_in_small_player: Кнопка перехода к источнику в компактном плеере
+locate_current_track_in_queue: Найти текущий трек в очереди
+lock_queue: Заблокировать очередь
+lock_queue_behavior: Поведение блокировки очереди
+lock_queue_is_enabled: Блокировка очереди включена
+look_through_telegrams_downloaded_files: Поиск среди загруженных файлов Telegram
+lyrics: Текст
+lyrics_resync: Синхронизировать
+making_room: Освобождение места…
+manage_artists_hidden_from_the_library: Управление исполнителями, скрытыми из медиатеки.
+max_queue_songs: Максимум песен в очереди
+mini_player: Мини-плеер
+minimum_sheet_height: Минимальная высота плеера
+minimum_tracks_per_artist: Минимум треков у исполнителя
+more_options: Ещё
+move_tabs_to_top: Вкладки наверху
+move_to_end: Переместить в конец
+moved_to_the_end: перемещён в конец
+music: Музыка
+music_in_this_n: 'Музыка: {0}'
+music_menu_failed: Сбой меню Music +
+music_saved_from_chats_and_topics: Музыка из чатов и тем
+my_profile: Мой профиль
+n_already_exists: «{0}» уже существует
+n_already_there: 'уже есть: {0}'
+n_columns: 'Столбцов: {0}'
+n_couldnt_load: ' · не загрузилось: {0}'
+n_dupe_tracks_from_this_album: 'Скрыто повторов из этого альбома: {0}'
+n_duplicate_tracks_hidden: 'Скрыто повторяющихся треков: {0}'
+n_failed: 'ошибок: {0}'
+n_found: 'найдено: {0}'
+n_matches: 'Совпадений: {0}'
+n_min: '{0} мин'
+n_n_n_tracks_from: ТРЕКОВ ИЗ {0}{1}{2}
+n_new_tracks_found: 'Найдено новых треков: {0}'
+n_of_n_tracks: '{0} из {1} треков'
+n_of_n_tracks_loaded: 'Загружено треков: {0:,} из {1:,}'
+n_of_screen: '{0}% экрана'
+n_playlists: 'Плейлистов: {0}'
+n_playlists_n_chats_n_friends: 'Плейлистов: {0} · чатов: {1} · друзей: {2}'
+n_remaining: 'осталось: {0}'
+n_selected: 'выбрано: {0}'
+n_songs: 'Песен: {0}'
+n_songs_missing_from_this_album: 'В этом альбоме не хватает песен: {0}'
+n_tracks: 'Треков: {0}'
+n_tracks_couldnt_be_loaded_check: 'Не удалось загрузить треки: {0}. Проверьте подключение к интернету'
+n_tracks_found: 'Найдено треков: {0}'
+n_tracks_loaded: 'Загружено треков: {0:,}'
+n_tracks_loaded_2: 'Загружено треков: {0}'
+n_tracks_rescanning: 'Треков: {0:,} · Пересканирование…'
+n_tracks_unavailable_deleted_or_too: 'Недоступно треков: {0} (удалены или слишком старые)'
+n_unavailable: 'недоступно: {0}'
+navigation: Навигация
+new_playlist: Новый плейлист…
+new_queue_generation_requested_what_should: Запрошено создание новой очереди — что сделать?
+newer_version_is_available_v_n: 'Доступна новая версия: v{0}
+
+  Текущая версия: v{1}'
+next: после текущего
+next_track: Следующий трек
+no_artist_is_available_for_this: Для этого трека нет исполнителя
+no_artists_with_n_tracks_lower: Нет исполнителей с {0}+ треками. Уменьшите минимум в настройках Music +.
+no_audio_files: нет аудиофайлов
+no_available_tracks_to_download: Нет доступных треков для загрузки
+no_available_tracks_to_forward: Нет доступных треков для пересылки
+no_available_tracks_to_play: Нет доступных треков для воспроизведения
+no_available_tracks_to_save: Нет доступных треков для сохранения
+no_cached_tracks: Нет кэшированных треков
+no_cached_tracks_for_this_artist: Нет кэшированных треков этого исполнителя
+no_cached_tracks_rescan_the_chat: Нет кэшированных треков. Пересканируйте чат из его меню, чтобы загрузить их заново.
+no_cached_tracks_to_exclude: Нет кэшированных треков для исключения
+no_excluded_artists: Нет исключённых исполнителей
+no_lyrics_found: Текст не найден
+no_music_found_in_this_n: Музыка не найдена ({0})
+no_new_downloaded_tracks_found: Новых загруженных треков не найдено
+no_new_music: Новой музыки нет
+no_playlists_yet_use_add_to: Плейлистов пока нет. Создайте его через «Добавить в» у трека, чата или в меню очереди.
+no_public_music_was_found_rescan: Публичная музыка не найдена. Пересканируйте после того, как пользователь обновит плейлист профиля.
+no_results_for_n_try_an: Нет результатов для «{0}». Попробуйте исполнителя, трек, плейлист, чат или друга.
+no_tracks_available_to_set: Нет доступных треков для установки
+not_in_the_latest_scan: Нет в последнем сканировании
+nothing_from_n_is_in_the: 'В очереди ничего нет из: {0}'
+nothing_from_this_n_in_the: В очереди ничего нет ({0})
+nothing_in_your_queue: В очереди пусто
+nothing_is_playing: Ничего не играет
+nothing_new_to_add: Нечего добавлять
+nothing_new_to_add_to_n: В «{0}» нечего добавлять
+nothing_new_to_import: Нечего нового импортировать
+nothing_to_import: Нечего импортировать
+nothing_to_move: Нечего перемещать
+nothing_to_play: Нечего воспроизводить
+nothing_to_reverse: Нечего разворачивать
+nothing_to_share: Пока нечем поделиться
+nothing_to_shuffle: Нечего перемешивать
+nothing_to_sort: Нечего сортировать
+nothing_was_downloading: Ничего не загружалось
+notify_latest_updates: Уведомлять об обновлениях
+number_of_tracks: Количество треков
+state_off: Выкл.
+offline_cache_cleared_n_mb: Офлайн-кэш очищен ({0:.1f} МБ)
+offline_library_cache: Офлайн-кэш медиатеки
+offline_mode: Офлайн-режим
+offline_mode_no_downloaded_tracks_to: 'Офлайн-режим: нет загруженных треков'
+offline_mode_no_more_downloaded_tracks: 'Офлайн-режим: загруженные треки закончились'
+state_on: Вкл.
+only_this_topic: Только эта тема
+open_artist_in_library: Открыть исполнителя в медиатеке
+open_artist_page_in_library: Открыть страницу исполнителя в медиатеке
+open_chat: Открыть чат
+open_library: Открыть медиатеку
+open_music: Открыть Music +
+open_music_settings: Открыть настройки Music +
+open_music_to_view_this_artist: Откройте Music +, чтобы увидеть исполнителя в медиатеке
+open_profile: Открыть профиль
+open_telegrams_player: Открыть плеер Telegram
+open_the_original_message: Открыть исходное сообщение
+open_the_source_of_the_current: Открыть источник текущей очереди
+opens_faster_uses_a_little_more: Открывается быстрее; занимает чуть больше памяти.
+organizing_forum_tracks: Упорядочивание треков форума…
+original: Оригинал
+other: Прочее
+pause_after_the_playing_track_finishes: Ставить на паузу после окончания трека, а не сразу.
+pause_playback_after_a_set_time: Пауза через заданное время или в конце трека
+pause_playback_automatically: Автоматическая пауза
+pauses_at_the_end_of_this: Пауза в конце этого трека
+pauses_in_n: Пауза через {0}
+pin_artist: Закрепить исполнителя
+pitch: Тональность
+play: Воспроизвести
+play_a_track_from_any_chat: Запустите трек из любого чата или из медиатеки. Всё, что вы добавите в очередь, появится здесь.
+play_next: Играть следующим
+play_next_failed: Не удалось добавить следующим
+play_this_track_next: Играть этот трек следующим
+playback: Воспроизведение
+playback_queue: Воспроизведение и очередь
+playback_settings: Настройки воспроизведения
+playback_stopped_start_a_track_first: Воспроизведение остановлено – сначала запустите трек
+player_not_available: Плеер недоступен
+playing_next: Следующий трек
+playlist: Плейлист
+playlist_n_n_tracks: 'Плейлист «{0}» · треков: {1}'
+playlist_name: Название плейлиста
+playlist_reversed: Порядок треков в плейлисте изменён на обратный
+playlist_shuffled: Плейлист перемешан
+playlists: Плейлисты
+position_in_the_bottom_bar_empty: Позиция в нижней панели. Если пусто – в конце.
+preparing_chat_rescan: Подготовка пересканирования чата…
+prevents_queue_regeneration_when_track_played: Не даёт пересоздавать очередь, когда запускается трек из других чатов.
+previous_button_in_small_player: Кнопка «Предыдущий трек» в компактном плеере
+previous_track: Предыдущий трек
+profile: Профиль
+profile_music_is_full_saved_n: 'Музыка профиля заполнена · сохранено: {0}'
+profile_music_shortcuts: Ярлыки музыки профилей
+profile_playlist: Плейлист профиля
+profile_playlist_failed: Сбой плейлиста профиля
+profile_playlist_set_n: Плейлист профиля задан · {0}
+profile_playlist_note: Изменения в этом плейлисте также применяются к карточке «Плейлист профиля».
+profile_playlist_tap_to_load: Плейлист профиля · нажмите для загрузки
+queue: Очередь
+queue_action_failed: Сбой действия с очередью
+queue_and_library: Очередь и медиатека
+queue_built_but_playback_couldnt_start: Очередь собрана, но воспроизведение не началось
+queue_changed_cant_undo: Очередь изменилась — отмена невозможна
+queue_changed_meanwhile_reopen_the_editor: Очередь изменилась – откройте редактор заново
+queue_changed_stopped_loading_the_rest: Очередь изменилась – загрузка остального списка остановлена
+queue_editor_failed_n: 'Сбой редактора очереди: {0}'
+queue_filtered_n_n_tracks: 'Очередь отфильтрована ({0}): треков – {1}'
+queue_finished_but_the_ui_couldnt: Очередь собрана, но интерфейс не удалось обновить
+queue_is_empty: Очередь пуста
+queue_is_locked_but_this_track: Очередь заблокирована, и трек не удалось добавить
+queue_is_locked_but_this_track_2: Очередь заблокирована, и трек не удалось добавить следующим
+queue_kept_unchanged_couldnt_open_the: 'Очередь не изменена: не удалось открыть окно выбора'
+queue_loading_stopped: Загрузка очереди остановлена
+queue_options: Параметры очереди
+queue_reversed: Очередь воспроизведения перевёрнута
+queue_shuffled: Очередь перемешана
+queue_unfiltered: Фильтр очереди снят
+random_order: В случайном порядке
+reading_profile_music_n_tracks: 'Чтение музыки профиля… треков: {0}'
+reading_your_profile_music: Чтение музыки вашего профиля…
+refresh_this_users_public_profile_playlist: Обновить публичный плейлист профиля пользователя
+reloads_a_chats_or_friends_tracks: Перезагружает треки чата или друга при запуске. В больших чатах может быть тяжело.
+remove: Удалить
+remove_from_library: Удалить из медиатеки
+remove_from_liked_songs: Удалить из «Понравившихся»
+remove_from_the_top_of_artists: Убрать из верха списка исполнителей
+remove_the_other_queued_tracks: Удалить остальные треки из очереди
+removed_from_library_change_this_later: Удалено из медиатеки. Это можно изменить позже в списке исключённых исполнителей в настройках плагина.
+removed_n: «{0}» удалён
+removed_n_2: 'удалено: {0}'
+removed_n_tracks: 'Удалено треков: {0}'
+removed_the_unavailable_track: Недоступный трек удалён
+removing_old_tracks_n_of_n: 'Удаление старых треков: {0} из {1}…'
+rename_playlist: Переименовать плейлист
+reorder_library_sections: Порядок разделов медиатеки
+repeat: Повтор
+repeat_all: Повторять всё
+repeat_one: Повторять один трек
+replaces_the_music_bar_above_chats: Заменяет панель музыки над чатами компактной панелью Music +
+replace_the_queue: Заменить очередь
+rescan: Пересканировать
+rescan_this_chat: Пересканировать этот чат
+rescanning: Пересканирование…
+rescanning_chat_n_new_tracks_found: 'Пересканирование чата · новых треков: {0}'
+reset_playback_settings: Сбросить настройки воспроизведения
+reset_to_default: Сбросить по умолчанию
+respect_forum_topic: Учитывать тему форума
+respect_hashtag_chat_search: Учитывать хештег / поиск в чате
+restart_the_app_to_apply: Перезапустите приложение, чтобы применить
+restore: Восстановить
+restored: Восстановлено
+restored_n_to_library: '{0} восстановлен в медиатеке'
+resume_last_queue_n_tracks: 'Продолжить последнюю очередь · треков: {0}'
+reverse: Развернуть
+reverse_order: Обратный порядок
+reverse_the_current_track_order: Развернуть текущий порядок треков
+reverse_undone: Обратный порядок отменён
+save: Сохранить
+save_album_cover_to_gallery: Сохранить обложку альбома в галерею
+save_as_playlist: Сохранить как плейлист
+save_this_users_profile_music_to: Сохранить музыку профиля пользователя в Медиатеку › Друзья
+save_to_gallery: Сохранить в галерею
+save_to_music: Сохранить в «Музыку»
+save_up_to_100_tracks_at: Можно сохранить не более 100 треков за раз
+saved_cover_to_gallery: Обложка сохранена в галерею
+saved_messages: Избранное
+saved_n_n_tracks: '«{0}» сохранён · треков: {1}'
+saved_n_to_library_friends: '{0} сохранён в Медиатеку › Друзья'
+saved_n_tracks_n_failed: 'Сохранено: {0}, ошибок: {1}'
+saved_n_tracks_to_music: 'Сохранено в «Музыку»: {0}'
+saved_playlists: Сохранённые плейлисты
+saved_to_music: Сохранено в «Музыку»
+saves_a_backup_file_to_your: Сохраняет резервную копию в «Избранное». Нажмите на файл, чтобы импортировать её.
+saves_each_library_chats_tracks_on: 'Сохраняет треки каждого чата медиатеки на диск: мгновенный запуск, работа офлайн и меньше памяти.'
+saves_the_previous_queue_as_a: Сохраняет прежнюю очередь как плейлист «Последняя очередь» при очистке или новой очереди.
+saving_n_of_n: Сохранение {0} из {1}…
+search: Поиск
+search_again: Искать снова
+search_and_pin_your_favorite_artists: Найдите и закрепите любимых исполнителей для быстрого доступа.
+search_for_artist: Найти исполнителя
+search_for_artist_in_telegram_music: Найти исполнителя в Telegram Music
+search_library: Поиск по медиатеке
+search_results: Результаты поиска
+search_telegram_music_for_this_artist: Искать этого исполнителя в Telegram Music
+searching_for_downloaded_songs: Поиск загруженных песен…
+select: Выбрать
+select_all: Выбрать все
+select_at_least_one_track: Выберите хотя бы один трек
+select_tracks: Выбрать треки
+select_up_to_100_tracks: Можно выбрать до 100 треков
+selection: Выбор
+sent_to_n: 'Отправлено: {0}'
+sent_to_saved_messages: Отправлено в «Избранное»
+set_as_profile_playlist: Сделать плейлистом профиля
+setting_profile_playlist: Установка плейлиста профиля…
+share_as_playlist: Поделиться как плейлистом
+share_with_other_music_users: Поделиться с другими пользователями Music+
+short_blend_when_you_change_tracks: Короткий переход при смене трека
+show_as: 'Показывать как '
+show_in_chat: Показать в чате
+show_music_as_a_tab: Показывать Music + как вкладку
+show_music_in_navigation_drawer: Показывать Music + в боковом меню
+showing_n_dupe_tracks_from_this: 'Показаны повторы из этого альбома: {0}'
+showing_n_duplicate_tracks: 'Показаны повторяющиеся треки: {0}'
+showing_the_first_30_track_matches: Показаны первые 30 совпадений.
+shuffle: Перемешать
+shuffle_is_on_order_applies_once: Перемешивание включено – порядок применится после его выключения
+shuffle_undone: Перемешивание отменено
+shuffled: перемешано
+singles: Синглы
+skip_tracks_that_arent_downloaded: Пропускать незагруженные треки
+sleep_timer: Таймер сна
+sleep_timer_pausing_after_this_track: 'Таймер сна: пауза после этого трека'
+sleep_timer_playback_paused: 'Таймер сна: воспроизведение приостановлено'
+sort: Сортировка
+sort_artists: Сортировка исполнителей
+sort_by_title_artist_duration_or: По названию, исполнителю, длительности или в обратном порядке
+sort_playlist: Сортировка плейлиста
+sort_playlists: Сортировка плейлистов
+sort_queue: Сортировать очередь
+sort_tracks: Сортировка треков
+sort_undone: Сортировка отменена
+speed: Скорость
+start_playing_a_track_first: Сначала запустите трек
+starting: Запуск…
+still_loading_this_song: Эта песня ещё загружается…
+stop_downloading_the_selected_tracks: Остановить загрузку выбранных треков
+stop_downloading_this_track: Остановить загрузку этого трека
+stopped_after_n: Остановлено после {0}
+tab_position: Позиция вкладки
+tap_find_downloaded_songs_to_look: Нажмите «Найти загруженные песни», чтобы найти песни, сохранённые на этом устройстве.
+tap_to_hide_them: Нажмите, чтобы скрыть
+tap_to_open_the_section_order: Нажмите, чтобы открыть редактор порядка разделов.
+tap_to_show_them_in_list: Нажмите, чтобы показать в списке
+tap_tracks_to_select: Нажимайте на треки для выбора
+telegram_asks_to_wait_n_s: Telegram просит подождать {0} с…
+telegram_couldnt_save_the_file: Telegram не смог сохранить файл
+the_built_in_full_player: Встроенный полноэкранный плеер
+the_current_track_will_keep_playing: Текущий трек продолжит играть.
+the_queue_is_locked: Очередь заблокирована
+the_whole_group_all_topics: Вся группа, все темы
+this_chat: этот чат
+this_isnt_a_music_backup: Это не резервная копия Music +
+this_only_removes_the_saved_shortcut: Удаляется только сохранённый ярлык
+this_playlist_is_empty_use_add: Этот плейлист пуст. Добавьте треки через «Добавить в» из чата или другого плейлиста.
+this_topic: эта тема
+those_tracks_arent_available_any_more: Эти треки больше недоступны
+title: Название
+to_the_bottom: в конец
+to_the_end_of_the_queue: в конец очереди
+topic: тема
+topic_n: Тема {0}
+topic_search_results: результаты поиска по теме
+track_actions: Действия с треком
+track_count: Количество треков
+track_end: Конец трека
+track_length: Длина трека
+track_title: Название трека
+tracks: Треки
+turn_off_timer: Выключить таймер
+turns_off_lock_queue: Отключает блокировку очереди
+unavailable_deleted_or_too_old_to: Недоступно – удалён или слишком старый
+undo: Отменить
+undo_unavailable_in_this_telegram_build: ' — отмена недоступна в этой сборке Telegram'
+unknown_artist: Неизвестный исполнитель
+unlimited: Без ограничений
+unpin_artist: Открепить исполнителя
+updated_n_in_library_friends: '{0} обновлён в Медиатеке › Друзья'
+updates: Обновления
+use_the_queue_as_your_profile: Использовать очередь как музыку профиля
+use_this_artists_tracks_as_your: Использовать треки исполнителя как музыку профиля
+use_this_chats_music_as_your: Использовать музыку чата как музыку профиля
+use_this_n_s_music_as: Использовать музыку ({0}) как музыку профиля
+use_this_playlist_as_your_profile: Использовать плейлист как музыку профиля
+view_artist: Об исполнителе
+view_chat: Перейти в чат
+view_the_users_telegram_profile: Открыть профиль пользователя в Telegram
+view_update: Посмотреть обновление
+when_it_was_last_played: Когда последний раз воспроизводился
+when_tapping_music_outside_the_queue: При нажатии на музыку вне очереди
+when_the_playlist_was_made: Когда плейлист был создан
+your_current_music_settings_will_be: Текущие настройки Music + будут заменены. Исключённые исполнители будут объединены.
+your_own_profile_doesnt_need_to: Свой профиль не нужно сохранять как друга
+youre_up_to_date_current_version: 'У вас последняя версия
+
+  Текущая версия: v{0}'
+archive_forward_consent: "Треки плейлиста будут пересланы в @{0} для доступности; продолжить?"
+proceed: "Продолжить"
+forwarding_to_archive: "Пересылка в @{0}"
+forwarded_n_of_n_tracks: "Переслано {0} из {1} треков"
+archive_resolve_failed: "Не удалось подключиться к @{0} ({1})"
+archive_join_first: "Сначала вступите в @{0}, затем поделитесь снова"
+archive_forward_failed: "Не удалось переслать треки ({0})"
+archive_n_tracks_skipped: "Не удалось переслать треков: {0}; они пропущены"
+archive_resolving: "Поиск @{0}…"
+playlist_created: "Плейлист создан."
+copy_link: "Копировать ссылку"
+forward_file: "Переслать файл"
+how_to_use: "Как использовать?"
+link_copied: "Ссылка скопирована"
+archive_link_unavailable: "Не удалось получить ссылку на плейлист из архива"
+archive_count_note: "Выбрано {0} · читаемых {1} · уникальных {2} · в файле {3} · пропущено {4}"
+archive_summary: "Включено {0} из {1} треков"
+archive_left_out: "Пропущено ({0}):"
+archive_why_restricted: "{0} из чатов с запретом пересылки"
+archive_why_missing: "{0} больше недоступно (удалено или вы вышли из чата)"
+archive_why_other: "{0} прочие ошибки"
+equalizer: Эквалайзер
+equalizer_is_unavailable: Эквалайзер недоступен
+equalizer_needs_a_playing_track: Применится при воспроизведении трека
+shape_bass_treble_and_tone: Настройка басов, высоких и тембра
+reset_equalizer: Сбросить эквалайзер
+eq_presets: ПРЕСЕТЫ
+eq_effects: ЭФФЕКТЫ
+eq_custom: Свой
+eq_save_preset: Сохранить как пресет
+eq_preset_name: Название пресета
+eq_delete_preset: Удалить пресет
+eq_flat: Плоский
+eq_bass_boost: Бас
+eq_treble_boost: Высокие
+eq_vocal: Вокал
+eq_rock: Рок
+eq_pop: Поп
+eq_jazz: Джаз
+eq_classical: Классика
+eq_electronic: Электроника
+eq_hip_hop: Хип-хоп
+eq_acoustic: Акустика
+eq_lounge: Лаундж
+bass_boost: Усиление баса
+surround: Объём
+loudness: Громкость
+waiting_for_track_to_load: "Ожидание загрузки трека…"
+skipped_loading_track: "Пропущено «{0}» — ещё загружается"
+skipped_loading_track_plain: "Пропущен трек, который ещё загружался"
+stall_timeout: "Пропускать трек, который долго грузится"
+n_seconds: "{0} с"
+auto: "Авто"
+offline_mode_modes_sub: "Выкл.: всё. Вкл.: только загруженные. Авто: только загруженные, пока нет соединения."
+cancel_skipped_download: "Отменять загрузку пропущенных треков"
+cancel_skipped_download_sub: "Пропуск ещё загружающегося трека останавливает его загрузку."
+preload_next_track: "Предзагрузка следующего трека"
+preload_next_track_sub: "Telegram заранее скачивает следующий трек."
+cancel_unused_preload: "Отменять предзагрузку при смене следующего трека"
+cancel_unused_preload_sub: "Останавливает незавершённую предзагрузку, если трек больше не следующий."
+network: "Сеть"
+
+player_bar_height: Высота панели плеера
+n_dp: "{0} dp"
+applies_to_the_custom_player_bar: Работает с собственной панелью; откройте чат заново, чтобы применить
+artwork_tint: "Цвет обложки"
+tints_the_player_with_the_tracks_artwork_color: "Вместо акцента Telegram используется средний цвет обложки трека"
+queue_color_animation: "Анимация цвета очереди"
+queue_color_animation_hint: "Авто следует энергосбережению Telegram и упрощается на слабых или загруженных телефонах. Панель плеера и мини-плеер анимируются всегда"
+queue_anim_auto: "Авто"
+queue_anim_always: "Всегда анимировать"
+queue_anim_never: "Сразу менять цвет"
+tab_chats: "Чаты"
+tab_contacts: "Контакты"
+tab_feed: "Лента"
+tab_settings: "Настройки"
+tab_profile: "Профиль"
+music_tab: "Вкладка Music"
+tab_preview_failed: "Не удалось открыть предпросмотр"
+tab_note_replace: "Music занимает место вкладки «Контакты»."
+tab_note_replace_feed: "Лента включена, поэтому Music занимает её место."
+tab_note_add_at: "Music добавляется отдельной вкладкой на позицию {0}."
+tab_note_add_end: "Music добавляется отдельной вкладкой в конец."
+tab_note_off: "Вкладки Music нет. Панель остаётся как в Telegram."
+tab_sheet_title: "Вкладка Music"
+tab_sheet_sub: "Изменения сразу видны в предпросмотре"
+tab_row: "Вкладка Music: {0}"
+tab_state_off: "Выкл."
+tab_state_replace: "Заменяет «{0}»"
+tab_state_add: "Отдельная вкладка"
+tab_section_where: "Где разместить"
+tab_section_position: "Позиция"
+tab_opt_off: "Выкл."
+tab_opt_off_sub: "Нижняя панель остаётся как в Telegram"
+tab_opt_replace: "Заменить вкладку «{0}»"
+tab_opt_replace_sub: "Music занимает место этой вкладки (рекомендуется)"
+tab_opt_add: "Отдельная вкладка Music"
+tab_opt_add_sub: "Добавляет новую вкладку, все ваши остаются"
+tab_pos_after: "После «{0}»"
+tab_pos_last: "В конце"
+tab_opt_replace_off: "Вкладка «Контакты» отключена в Telegram. Включите её там, чтобы использовать этот вариант."
+tab_opt_replace_settings_sub: "Music занимает место вкладки «Настройки»"
+tab_note_contacts_off: "Вкладка «Контакты» отключена в Telegram, заменять нечего. Включите её в Telegram или выберите другой вариант."
+tab_note_replace_settings: "Music занимает место вкладки «Настройки»."
+tab_state_contacts_off: "Вкладка «Контакты» отключена в Telegram"
+tab_restart_title: "Перезапустить Telegram?"
+tab_restart_msg: "Изменения вкладок применяются только после полного перезапуска. Telegram продолжает работать в фоне, поэтому закрыть его из списка недавних приложений недостаточно."
+tab_restart_now: "Перезапустить"
+tab_restart_later: "Позже"
+md3_player_msg: "Music + несовместим с плеером Material Design 3 в exteraGram. Отключите «Внешний вид > Material Design 3 > Плеер».\n\nНажмите «Открыть настройки», чтобы перейти туда."
+md3_player_ok: "OK"
+md3_player_settings: "Открыть настройки"
+md3_player_never: "Больше не показывать"
+plugin_description: "Новый взгляд на музыку в Telegram: библиотека, тексты песен и удобное управление очередью"
+save_for_this_track_only: Сохранить только для этого трека
+speed_and_pitch_apply_to_this_track_always: Скорость и тональность всегда применяются к этому треку, а не глобально
+resume_the_queue: Возобновлять последнюю очередь
+offers_the_last_started_queue_up_to: Предлагает последнюю запущенную очередь (до 100 треков), когда очередь пуста
+couldnt_resume_the_queue: Не удалось возобновить очередь
+show_player_bar_on_start: "Показывать плеер при запуске"
+show_player_bar_on_start_sub: "Показывает панель плеера с последним треком при загрузке плагина. Выкл.: очередь восстанавливается при открытии вкладки Music"
+update_restart_title: "Music + обновлён"
+update_restart_msg: "Music + обновлён до v{0}. Перезапустите Telegram, чтобы новая версия работала корректно. Telegram продолжает работать в фоне, поэтому закрыть его из списка недавних приложений недостаточно."
+music_card_in_chats: "Карточка Music + в чатах"
+music_card_in_chats_sub: "Своя карточка плеера на сообщениях с музыкой: кнопка «нравится» и кнопка контекстного меню"
+
+loading_queue: "Загрузка очереди…"
+
+lyrics_options: "Параметры текста"
+lyrics_source: "Источник текста"
+lyrics_source_sub: "Выберите версию текста"
+lyrics_sync: "Синхронизация"
+lyrics_sync_sub: "Исправить текст, идущий раньше или позже"
+lyrics_sync_hint: "Плюс: текст появляется позже. Минус: раньше."
+lyrics_reset_track: "Сбросить для этого трека"
+lyrics_reset_track_sub: "Автоматический источник и без сдвига"
+lyrics_searching: "Поиск текста…"
+lyrics_none_found: "Других текстов не найдено"
+lyrics_kind_word: "По словам"
+lyrics_kind_line: "По строкам"
+lyrics_kind_plain: "Без синхронизации"
+lyrics_auto: "Автоматически"
+lyrics_auto_sub: "Лучшее найденное совпадение"
+lyrics_local: "Локальный файл"
+lyrics_reset: "Сброс"
+lyrics_done: "Готово"
+show_crash_reports: "Показывать отчёты о сбоях"
+show_crash_reports_sub: "После сбоя при следующем запуске показывает отчёт, который можно скопировать. По умолчанию выключено."
+lyrics_search_edit: "Изменить поиск"
+lyrics_search_edit_sub: "Изменить название или исполнителя для поиска текста"
+lyrics_search_title: "Поиск текста"
+lyrics_search_note: "Источники ищут текст по этим словам. Теги файла не меняются."
+lyrics_field_title: "Название"
+lyrics_field_artist: "Исполнитель (необязательно)"
+lyrics_search_go: "Искать"
+lyrics_search_busy: "Поиск…"
+lyrics_search_need_title: "Введите название"
+lyrics_search_nothing: "Ничего не найдено. Попробуйте меньше слов или другое написание названия или исполнителя."
+lyrics_search_offline: "Нет подключения. Подключитесь и повторите."
+lyrics_tap_to_search: "Нажмите, чтобы искать по другому названию или исполнителю"
+profile_sync_failed: "Не удалось синхронизировать плейлист профиля: {0}"

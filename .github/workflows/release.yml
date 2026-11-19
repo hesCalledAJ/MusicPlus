@@ -1,0 +1,76 @@
+name: Build and publish Music +
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: musicplus-release-${{ github.event.release.tag_name }}
+  cancel-in-progress: false
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the release tag
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packaging dependency
+        run: python -m pip install pyyaml
+
+      - name: Build source .elyx archive
+        id: build
+        shell: bash
+        run: |
+          VERSION="$(python -c 'import yaml; print(yaml.safe_load(open("MusicPlus/metainfo.yml", encoding="utf-8"))["version"])')"
+          TAG_VERSION="${GITHUB_REF_NAME#v}"
+          if [[ "$VERSION" != "$TAG_VERSION" ]]; then
+            echo "Release tag ${GITHUB_REF_NAME} does not match MusicPlus/metainfo.yml version ${VERSION}." >&2
+            exit 1
+          fi
+          python scripts/build_elyx.py
+          ARCHIVE="dist/MusicPlus-v${VERSION}.elyx"
+          test -s "$ARCHIVE"
+          echo "archive=$ARCHIVE" >> "$GITHUB_OUTPUT"
+          echo "asset_name=$(basename "$ARCHIVE")" >> "$GITHUB_OUTPUT"
+
+      - name: Upload .elyx to the GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ github.event.release.tag_name }}" "${{ steps.build.outputs.archive }}" --clobber
+
+      - name: Generate ExteraGram catalog index
+        run: |
+          ASSET_URL="https://github.com/${GITHUB_REPOSITORY}/releases/download/${GITHUB_REF_NAME}/${{ steps.build.outputs.asset_name }}"
+          python scripts/update_index.py \
+            --archive "${{ steps.build.outputs.archive }}" \
+            --asset-url "$ASSET_URL" \
+            --output "$RUNNER_TEMP/extera-plugins.json"
+
+      - name: Update the catalog index on the default branch
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git fetch origin "$DEFAULT_BRANCH"
+          git checkout --force -B "$DEFAULT_BRANCH" "origin/$DEFAULT_BRANCH"
+          cp "$RUNNER_TEMP/extera-plugins.json" extera-plugins.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extera-plugins.json
+          if git diff --cached --quiet; then
+            echo "Catalog index is already up to date."
+          else
+            git commit -m "chore: update Music + catalog for ${GITHUB_REF_NAME}"
+            git push origin "$DEFAULT_BRANCH"
+          fi
