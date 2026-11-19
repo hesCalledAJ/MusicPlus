@@ -20,6 +20,9 @@ A richer music experience inside Telegram — with a personal library, lyrics, a
 
 ---
 
+> [!NOTE]
+> **Using AyuGram?** [AyuGram](https://github.com/AyuGram/AyuGram4A) is an alternative to exteraGram with more features. Anywhere this README mentions exteraGram, you can use AyuGram instead.
+
 ## ✨ What's inside
 
 <table>
