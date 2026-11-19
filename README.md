@@ -4,6 +4,8 @@
 
 <div align="center">
 
+**English** | [Русский](README.ru.md) | [فارسی](README.fa.md)
+
 # Music +
 
 ### The Music Player Telegram Deserved.
@@ -11,16 +13,17 @@
 A richer music experience inside Telegram — with a personal library, lyrics, and much better control over what plays next.
 
 [![Latest release](https://img.shields.io/github/v/release/hesCalledAJ/MusicPlus?style=for-the-badge&label=VERSION)](https://github.com/hesCalledAJ/MusicPlus/releases)
-[![Client](https://img.shields.io/badge/CLIENT-EXTERAGRAM-5661e8?style=for-the-badge)](https://github.com/exteraSquad/exteraGram)
+[![Client](https://img.shields.io/badge/PLUGIN%20FOR-EXTERAGRAM-5661e8?style=for-the-badge)](https://exteragram.app)
 [![Format](https://img.shields.io/badge/PACKAGE-ELYX-8b5cf6?style=for-the-badge)](https://plugins.exteragram.app/docs/elyx)
 [![Languages](https://img.shields.io/badge/LANGUAGES-EN%20%7C%20RU%20%7C%20FA-0f9d78?style=for-the-badge)](#-languages)
 [![Channel](https://img.shields.io/badge/TELEGRAM-AJ__PLUGINS-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AJ_Plugins)
 
-[**Install from Telegram**](https://t.me/exteraPluginRepo?c=AJ_Plugins) · [**GitHub Releases**](https://github.com/hesCalledAJ/MusicPlus/releases/latest) · [**Installation guide**](https://t.me/AJ_Plugins/41)
-
 </div>
 
 ---
+
+> [!NOTE]
+> **Using AyuGram?** [AyuGram](https://github.com/AyuGram/AyuGram4A) is an alternative to exteraGram with more features. Anywhere this README mentions exteraGram, you can use AyuGram instead.
 
 ## ✨ What's inside
 
@@ -59,35 +62,56 @@ A richer music experience inside Telegram — with a personal library, lyrics, a
 
 ## 📱 Installation
 
-### Option 1 — Install through the Telegram plugin catalog
+Music + is a **plugin for exteraGram**, so you need exteraGram first. Set that up once, then install Music + in under a minute.
 
-1. Open the **AJ Plugins** repository in ExteraGram: **[Add Music +](https://t.me/exteraPluginRepo?c=AJ_Plugins)**.
-2. Find **Music +** in the catalog and install it.
-3. Enable the plugin.
-4. Open Music + settings, enable the **Music tab**, and restart ExteraGram.
-
-### Option 2 — Install the latest release manually
-
-1. Open [**GitHub Releases**](https://github.com/hesCalledAJ/MusicPlus/releases/latest).
-2. Download the `MusicPlus-vX.Y.elyx` asset attached to the latest release.
-3. Open the downloaded file with ExteraGram's plugin installer (or use the install/import action in its Plugins screen).
-4. Confirm the install, then enable Music +.
-5. In Music + settings, enable the **Music tab** and restart the app.
+### Step 1 — Set up exteraGram
 
 > [!NOTE]
-> The `.elyx` file is generated and attached to each GitHub Release. It is deliberately **not committed to this repository**. The source project stays in Git; release archives live as GitHub Release assets.
+> exteraGram is an **Android** Telegram client. There is no iOS or desktop build.
+
+1. **Download exteraGram** from one of its official sources:
+   - [exteragram.app](https://exteragram.app)
+   - [@exteraGram](https://t.me/exteraGram) (news and updates)
+   - [@exteraReleases](https://t.me/exteraReleases) (APK downloads)
+2. **Install the APK.**
+3. **Log in** with your Telegram account, the same way you would in the regular app.
+4. **Turn on plugins.** Open exteraGram **Preferences → Plugins** and enable the plugin engine.
+5. **Check your version.** Music + needs exteraGram `12.10.6` or newer. Update the app if yours is older.
+
+> [!NOTE]
+> You might need to allow installing from **Unknown Sources** before Android lets you install the APK. [Here's how to enable it](https://t.me/exteraSettings?s=pluginsUnknownSources).
 >
-> The plugin replaces Telegram's built-in music player sheet by default. Enable the Music tab in plugin settings to access the full library interface.
+> Prefer not to enable it? You can [install from a known source](https://t.me/exteraPluginsSup/1196) instead. Updates there arrive later than on the official channels.
+
+### Step 2 — Install Music +
+
+Pick whichever method suits you.
+
+#### Option A — From the Telegram plugin catalog (recommended)
+
+1. **[Add AJ's plugins as a PLugin Repository](https://t.me/exteraPluginRepo?c=AJ_Plugins)** in exteraGram/AyuGram.
+2. Find **Music +** and tap **Install**.
+3. Enable the plugin.
+
+#### Option B — Manual install from GitHub
+
+1. Open the [latest release](https://github.com/hesCalledAJ/MusicPlus/releases/latest).
+2. Download the `MusicPlus-vX.Y.elyx` file attached to it.
+3. Send the file in any chat (Saved Messages works well) and tap it to install.
+4. Confirm the install and enable Music +.
+
+> [!TIP]
+> By default, Music + replaces Telegram's built-in music player sheet. Turn on the **Music tab** in the plugin settings to get the full library interface.
 
 ### Requirements
 
 | Component | Minimum |
 |:--|:--|
-| ExteraGram | `12.10.6` |
+| exteraGram | `12.10.6` |
 | Plugin SDK | `1.4.4.3` |
 | Package format | `.elyx` |
 
-The SDK version is a plugin API requirement; you do not need to install a separate SDK on your phone.
+The SDK version is a plugin API requirement only. You don't need to install a separate SDK on your phone.
 
 ## 🗂️ Project structure
 
@@ -116,7 +140,10 @@ The SDK version is a plugin API requirement; you do not need to install a separa
 │   ├── build_elyx.py                # Creates dist/MusicPlus-vX.Y.elyx
 │   └── update_index.py              # Writes release URL, SHA-256 and size
 ├── extera-plugins.json              # ExteraGram catalog index (updated on release)
-└── README.md
+├── LICENSE                          # Custom non-commercial license
+├── README.md                        # English
+├── README.ru.md                     # Russian
+└── README.fa.md                     # Persian
 ```
 
 Generated output such as `dist/`, `.pyc` files, and local ElyxBuilder caches is ignored by Git.
@@ -129,59 +156,73 @@ The interface currently includes:
 - 🇮🇷 Persian
 - 🇷🇺 Russian
 
+This README is also available in: [Русский](README.ru.md), [فارسی](README.fa.md).
+
 ## 🔗 Links
 
 | | Link |
 |:--|:--|
 | **Author / updates** | [AJ Plugins](https://t.me/AJ_Plugins) |
-| **Music + installation guide** | [Read the guide](https://t.me/AJ_Plugins/41) |
 | **Releases** | [Latest GitHub release](https://github.com/hesCalledAJ/MusicPlus/releases/latest) |
-| **ExteraGram** | [GitHub](https://github.com/exteraSquad/exteraGram) · [Plugin documentation](https://plugins.exteragram.app/docs) · [Telegram](https://t.me/exteraGram) |
+| **ExteraGram** | [Website](https://exteragram.app) · [Telegram](https://t.me/exteraGram) · [Plugin documentation](https://plugins.exteragram.app/docs) |
 | **AyuGram** | [Android repository](https://github.com/AyuGram/AyuGram4A) · [Telegram](https://t.me/ayugram) |
 
-> **Compatibility note:** Music + is packaged for the ExteraGram plugin API. AyuGram is linked as a related ExteraGram-based client; compatibility with a particular AyuGram build is not guaranteed here.
+## 🤝 Contributing
+
+Contributions are welcome, whether it's a bug report, a translation, or a code change.
+
+### Report a bug or suggest a feature
+
+Open an [issue](https://github.com/hesCalledAJ/MusicPlus/issues) and include:
+
+- what you expected and what happened instead;
+- your exteraGram version and your Music + version;
+- steps to reproduce it, plus a screenshot if it helps.
+
+### Add or fix a translation
+
+1. Fork the repository.
+2. Edit the file for your language in `MusicPlus/strings/` (`strings_en.yml`, `strings_fa.yml` or `strings_ru.yml`). For a new language, copy `strings_en.yml` and translate it.
+3. Open a pull request.
+
+### Send a code change
+
+1. Fork the repository and create a branch.
+2. Make your changes under `MusicPlus/`.
+3. [Build it locally](#-for-developers) and try it in exteraGram.
+4. Open a pull request that explains what you changed and why.
+
+Please don't change `version` in `MusicPlus/metainfo.yml` or edit `extera-plugins.json` in a pull request. Those are updated when a release is published.
 
 ## 🧩 For developers
 
 ### Build locally
-
-The repository includes a small, dependency-light packager. It validates Python syntax, reads the version from `MusicPlus/metainfo.yml`, and creates a source archive with `refmap.yml` at the archive root.
 
 ```bash
 python -m pip install pyyaml
 python scripts/build_elyx.py
 ```
 
-The output is written to `dist/MusicPlus-vX.Y.elyx`. The `dist/` directory is ignored by Git.
+This checks the Python syntax and writes `dist/MusicPlus-vX.Y.elyx`. Install that file the same way as in [Option B](#option-b--manual-install-from-github).
 
-### Publish a release
+### Publish a release (maintainers)
 
-1. Make your changes under `MusicPlus/`.
-2. Update `version` in `MusicPlus/metainfo.yml`.
-3. Commit and push the source changes.
-4. Create a GitHub Release with a tag matching the metadata version, using the `v` prefix (for example, metadata `1.6` → tag `v1.6`).
-5. Publish the release.
+1. Update `version` in `MusicPlus/metainfo.yml` and push.
+2. Create a GitHub Release with a matching tag and a `v` prefix (version `1.6` → tag `v1.6`).
 
-The `release.yml` workflow then:
+The `release.yml` workflow does the rest: it builds the `.elyx`, attaches it to the release, and updates `extera-plugins.json` with the download URL, SHA-256 and size.
 
-- builds the `.elyx` from the checked-out release tag;
-- attaches it to that GitHub Release;
-- calculates its SHA-256 and exact byte size;
-- updates `extera-plugins.json` on the default branch with the GitHub Release asset URL.
+For compiled builds, see the [official ElyxBuilder docs](https://plugins.exteragram.app/docs/elyx/elyxbuilder).
 
-No `.elyx` binary needs to be committed or uploaded manually. The ExteraGram catalog uses the release asset URL and verifies its size and SHA-256 before installation.
+## 📄 License
 
-### Manual catalog-index generation
+Music + is released under a [custom non-commercial license](LICENSE).
 
-After building, you can generate the index entry yourself:
+- ✅ Use it, modify your own copy, and share it for free — keep the link to this repository and the license, and mark your changes.
+- ❌ Don't sell it or charge for access to it, and don't remove or misrepresent the original authorship.
+- 🤝 Contributions are accepted under the same license; you keep ownership of yours.
 
-```bash
-python scripts/update_index.py \
-  --archive dist/MusicPlus-v1.5.elyx \
-  --asset-url "https://github.com/hesCalledAJ/MusicPlus/releases/download/v1.5/MusicPlus-v1.5.elyx"
-```
-
-The official ElyxBuilder is also supported for more advanced builds. This repository's packager creates a source archive, matching the current source-based `.elyx` package. For compiled `.pyc` builds, use Python 3.11 and ElyxBuilder as described in the [official build docs](https://plugins.exteragram.app/docs/elyx/elyxbuilder).
+Read the full text in [LICENSE](LICENSE).
 
 ## 💬 Support
 
